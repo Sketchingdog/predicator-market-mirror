@@ -62,6 +62,9 @@ async function fetchPolymarket() {
 /** 从 Polymarket 事件里提取二元市场的通用归一化。 */
 function toMarket(m, slug) {
   try {
+    const title = norm(m.question);
+    // 只要自带对阵双方的"谁赢/平局"类题；比分、让分、进球数盘缺上下文且重复
+    if (/^(exact score|spread|total|both teams|first team|clean sheet|over\/under|anytime|correct score)/i.test(title)) return null;
     const outcomes = JSON.parse(m.outcomes ?? '[]');
     const prices = JSON.parse(m.outcomePrices ?? '[]');
     const yesIdx = outcomes.findIndex((o) => /^yes$/i.test(norm(o)));
@@ -74,7 +77,7 @@ function toMarket(m, slug) {
     return {
       source: 'polymarket',
       sourceId: norm(m.conditionId ?? m.id),
-      title: norm(m.question),
+      title,
       category: 'soccer',
       url: slug ? `https://polymarket.com/event/${slug}` : 'https://polymarket.com',
       probability: clampProb(prob),
