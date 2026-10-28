@@ -59,6 +59,52 @@ async function fetchPolymarket() {
   return out;
 }
 
+/** 从 Polymarket 事件里提取二元市场的通用归一化。 */
+function toMarket(m, slug) {
+  try {
+    const outcomes = JSON.parse(m.outcomes ?? '[]');
+    const prices = JSON.parse(m.outcomePrices ?? '[]');
+    const yesIdx = outcomes.findIndex((o) => /^yes$/i.test(norm(o)));
+    if (yesIdx < 0 || prices[yesIdx] == null) return null;
+    const prob = Number(prices[yesIdx]) * 100;
+    if (!Number.isFinite(prob)) return null;
+    if (!inWindow(m.endDate)) return null;
+    const volume = Number(m.volume ?? m.volumeNum ?? 0);
+    if (volume < 20000) return null;
+    return {
+      source: 'polymarket',
+      sourceId: norm(m.conditionId ?? m.id),
+      title: norm(m.question),
+      category: 'soccer',
+      url: slug ? `https://polymarket.com/event/${slug}` : 'https://polymarket.com',
+      probability: clampProb(prob),
+      closesAt: new Date(m.endDate).toISOString(),
+      volume,
+    };
+  } catch {
+    return null;
+  }
+}
+
+/** 专项抓足球赛事：先解析 soccer 标签 id，再按事件拉市场（保证每天都有足球题可选）。 */
+async function fetchPolymarketSoccer() {
+  const tags = await fetchJson('https://gamma-api.polymarket.com/tags?slug=soccer', 'polymarket-tags');
+  const tagId = (Array.isArray(tags) ? tags : []).find((t) => /soccer/i.test(t?.slug ?? t?.label ?? ''))?.id;
+  if (tagId == null) throw new Error('soccer 标签未找到');
+  const events = await fetchJson(
+    `https://gamma-api.polymarket.com/events?tag_id=${tagId}&closed=false&limit=40&order=volume24hr&ascending=false`,
+    'polymarket-soccer',
+  );
+  const out = [];
+  for (const e of Array.isArray(events) ? events : []) {
+    for (const m of e.markets ?? []) {
+      const item = toMarket(m, e.slug);
+      if (item) out.push(item);
+    }
+  }
+  return out;
+}
+
 async function fetchMetaculus() {
   const data = await fetchJson(
     'https://www.metaculus.com/api/posts/?statuses=open&order_by=-activity&limit=60',
@@ -93,7 +139,11 @@ async function fetchMetaculus() {
 
 const results = [];
 const errors = [];
-for (const [name, fn] of [['polymarket', fetchPolymarket], ['metaculus', fetchMetaculus]]) {
+for (const [name, fn] of [
+  ['polymarket', fetchPolymarket],
+  ['polymarket-soccer', fetchPolymarketSoccer],
+  ['metaculus', fetchMetaculus],
+]) {
   try {
     const items = await fn();
     console.log(`${name}: ${items.length} 条可用`);
@@ -104,11 +154,20 @@ for (const [name, fn] of [['polymarket', fetchPolymarket], ['metaculus', fetchMe
   }
 }
 
-results.sort((a, b) => b.volume - a.volume);
+// 按 source:sourceId 去重（热门榜和足球专项可能重叠）
+const seen = new Set();
+const deduped = results.filter((q) => {
+  const key = `${q.source}:${q.sourceId}`;
+  if (seen.has(key)) return false;
+  seen.add(key);
+  return true;
+});
+
+deduped.sort((a, b) => b.volume - a.volume);
 const payload = {
   fetchedAt: new Date(NOW).toISOString(),
   failedSources: errors,
-  questions: results.slice(0, 120),
+  questions: deduped.slice(0, 140),
 };
 fs.mkdirSync('data', { recursive: true });
 fs.writeFileSync('data/questions.json', JSON.stringify(payload, null, 2));
