@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T09:40:58.089Z",
+  "fetchedAt": "2026-10-28T09:43:03.449Z",
   "failedSources": [
     "metaculus"
   ],
@@ -210,7 +210,7 @@
       "title": "US x Iran ceasefire continues through October 28?",
       "category": "",
       "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-28",
-      "probability": 98,
+      "probability": 99,
       "closesAt": "2026-10-29T03:59:00.000Z",
       "volume": 1480121.1291750001
     },
@@ -240,7 +240,7 @@
       "title": "Will Bitcoin reach $87,500 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "probability": 5,
+      "probability": 4,
       "closesAt": "2026-11-01T04:00:00.000Z",
       "volume": 1197117.059609
     },
@@ -330,7 +330,7 @@
       "title": "Will Flávio Bolsonaro return to Brazil by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-flavio-bolsonaro-return-to-brazil-by-november-30-2026",
-      "probability": 89,
+      "probability": 88,
       "closesAt": "2026-12-01T04:59:00.000Z",
       "volume": 81601.810062
     },
@@ -343,6 +343,26 @@
       "probability": 89,
       "closesAt": "2026-10-31T20:00:00.000Z",
       "volume": 68270.42826799999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x641d5486d7815f3f165394adacf0d30c063f413f3976a29c84769ebe2c4342e7",
+      "title": "Will Deportivo Alavés win on 2026-10-31?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-bar-ala-2026-10-31",
+      "probability": 3,
+      "closesAt": "2026-10-31T20:00:00.000Z",
+      "volume": 9365.345121
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xcc3cce6dae48babb662fcba212424b49328aa303eb5a3e19d625fc3bdc6afea5",
+      "title": "Will FC Barcelona vs. Deportivo Alavés end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-bar-ala-2026-10-31",
+      "probability": 9,
+      "closesAt": "2026-10-31T20:00:00.000Z",
+      "volume": 2558.309143
     }
   ]
 }
