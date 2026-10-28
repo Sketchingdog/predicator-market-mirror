@@ -141,9 +141,10 @@ async function fetchMetaculus() {
 
 const results = [];
 const errors = [];
+// 顺序即去重优先级：足球专项在前，保证与主榜重叠的场次保留 category='soccer' 标注
 for (const [name, fn] of [
-  ['polymarket', fetchPolymarket],
   ['polymarket-soccer', fetchPolymarketSoccer],
+  ['polymarket', fetchPolymarket],
   ['metaculus', fetchMetaculus],
 ]) {
   try {
