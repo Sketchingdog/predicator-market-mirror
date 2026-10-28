@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-28T09:43:03.449Z",
+  "fetchedAt": "2026-10-28T09:44:47.661Z",
   "failedSources": [
     "metaculus"
   ],
@@ -310,7 +310,7 @@
       "title": "Will Bitcoin reach $85,000 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "probability": 20,
+      "probability": 21,
       "closesAt": "2026-11-01T04:00:00.000Z",
       "volume": 662791.6169700001
     },
@@ -320,9 +320,19 @@
       "title": "Will Bitcoin reach $82,500 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "probability": 68,
+      "probability": 69,
       "closesAt": "2026-11-01T04:00:00.000Z",
       "volume": 262452.969092
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xaacd4e3ee2148e079320d6fca5e3eb0594d9658ec48ba5fe221e5581169b4023",
+      "title": "Will Juventus FC win on 2026-10-28?",
+      "category": "",
+      "url": "https://polymarket.com/event/sea-gen-juv-2026-10-28-juv",
+      "probability": 55,
+      "closesAt": "2026-10-28T19:45:00.000Z",
+      "volume": 102516.158194
     },
     {
       "source": "polymarket",
@@ -346,6 +356,36 @@
     },
     {
       "source": "polymarket",
+      "sourceId": "0x16fb602a81ffa85ad181a26c43e947b9c86273d25ebc356185d98e7ddbc58e8e",
+      "title": "Will 1. FC Magdeburg win on 2026-10-28?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/dfb-bay-fcm-2026-10-28",
+      "probability": 2,
+      "closesAt": "2026-10-28T19:45:00.000Z",
+      "volume": 57401.67381600001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x22109a5c3a79bc83df0e4fd06fb104f1e1c2ea7f8b02fb30fb978c57c8d8fee3",
+      "title": "Will Liverpool FC win on 2026-10-28?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/efl-liv-cfc-2026-10-28",
+      "probability": 45,
+      "closesAt": "2026-10-28T20:00:00.000Z",
+      "volume": 28980.507497
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x64a50f96976d77944d06be73be67383b2b63eeda10dc4a7d3276d323a11ca2c2",
+      "title": "Will FC Bayern München vs. 1. FC Magdeburg end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/dfb-bay-fcm-2026-10-28",
+      "probability": 5,
+      "closesAt": "2026-10-28T19:45:00.000Z",
+      "volume": 14465.935239999999
+    },
+    {
+      "source": "polymarket",
       "sourceId": "0x641d5486d7815f3f165394adacf0d30c063f413f3976a29c84769ebe2c4342e7",
       "title": "Will Deportivo Alavés win on 2026-10-31?",
       "category": "soccer",
@@ -356,6 +396,16 @@
     },
     {
       "source": "polymarket",
+      "sourceId": "0x71c3743b031520209da3377b876b7d58d0e0a2ad1cac45f627db307bd8f4bbed",
+      "title": "Will Chelsea FC win on 2026-10-28?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/efl-liv-cfc-2026-10-28",
+      "probability": 31,
+      "closesAt": "2026-10-28T20:00:00.000Z",
+      "volume": 6835.015942999999
+    },
+    {
+      "source": "polymarket",
       "sourceId": "0xcc3cce6dae48babb662fcba212424b49328aa303eb5a3e19d625fc3bdc6afea5",
       "title": "Will FC Barcelona vs. Deportivo Alavés end in a draw?",
       "category": "soccer",
@@ -363,6 +413,16 @@
       "probability": 9,
       "closesAt": "2026-10-31T20:00:00.000Z",
       "volume": 2558.309143
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xceea68fdb743718654fd6f570f93565a06066a107f4263364f0518913606c133",
+      "title": "Will FC Bayern München win on 2026-10-28?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/dfb-bay-fcm-2026-10-28",
+      "probability": 94,
+      "closesAt": "2026-10-28T19:45:00.000Z",
+      "volume": 2417.272465
     }
   ]
 }
