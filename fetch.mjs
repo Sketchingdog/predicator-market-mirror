@@ -86,13 +86,11 @@ function toMarket(m, slug) {
   }
 }
 
-/** 专项抓足球赛事：先解析 soccer 标签 id，再按事件拉市场（保证每天都有足球题可选）。 */
+/** 专项抓足球赛事：tag_slug=soccer + 限定 45 天内结算（避免全是联赛冠军远期盘）。 */
 async function fetchPolymarketSoccer() {
-  const tags = await fetchJson('https://gamma-api.polymarket.com/tags?slug=soccer', 'polymarket-tags');
-  const tagId = (Array.isArray(tags) ? tags : []).find((t) => /soccer/i.test(t?.slug ?? t?.label ?? ''))?.id;
-  if (tagId == null) throw new Error('soccer 标签未找到');
+  const endMax = new Date(NOW + MAX_CLOSE_MS).toISOString();
   const events = await fetchJson(
-    `https://gamma-api.polymarket.com/events?tag_id=${tagId}&closed=false&limit=40&order=volume24hr&ascending=false`,
+    `https://gamma-api.polymarket.com/events?tag_slug=soccer&closed=false&limit=40&order=volume24hr&ascending=false&end_date_max=${encodeURIComponent(endMax)}`,
     'polymarket-soccer',
   );
   const out = [];
