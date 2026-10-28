@@ -1,0 +1,25 @@
+name: mirror-market-data
+on:
+  schedule:
+    # 每天 23:30 UTC = 北京时间 07:30
+    - cron: '30 23 * * *'
+  workflow_dispatch: # 允许在 Actions 页手动点 Run 触发
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node fetch.mjs
+      - name: 提交数据
+        run: |
+          git config user.name "market-mirror-bot"
+          git config user.email "market-mirror-bot@users.noreply.github.com"
+          git add data/questions.json
+          git diff --cached --quiet && echo "数据无变化" && exit 0
+          git commit -m "data: $(date -u +%F)"
+          git push
