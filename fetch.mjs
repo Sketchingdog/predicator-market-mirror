@@ -60,7 +60,7 @@ async function fetchPolymarket() {
 }
 
 /** 从 Polymarket 事件里提取二元市场的通用归一化。 */
-function toMarket(m, slug) {
+function toMarket(m, slug, minVolume = 20000) {
   try {
     const title = norm(m.question);
     // 只要自带对阵双方的"谁赢/平局"类题；比分、让分、进球数盘缺上下文且重复
@@ -73,7 +73,7 @@ function toMarket(m, slug) {
     if (!Number.isFinite(prob)) return null;
     if (!inWindow(m.endDate)) return null;
     const volume = Number(m.volume ?? m.volumeNum ?? 0);
-    if (volume < 20000) return null;
+    if (volume < minVolume) return null;
     return {
       source: 'polymarket',
       sourceId: norm(m.conditionId ?? m.id),
@@ -99,7 +99,8 @@ async function fetchPolymarketSoccer() {
   const out = [];
   for (const e of Array.isArray(events) ? events : []) {
     for (const m of e.markets ?? []) {
-      const item = toMarket(m, e.slug);
+      // 单场赛事盘口较薄，但买卖价差紧、价格仍有参考价值，门槛降到 2000
+      const item = toMarket(m, e.slug, 2000);
       if (item) out.push(item);
     }
   }
