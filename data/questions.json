@@ -1,0 +1,323 @@
+{
+  "fetchedAt": "2026-10-28T05:53:11.320Z",
+  "failedSources": [
+    "metaculus"
+  ],
+  "questions": [
+    {
+      "source": "polymarket",
+      "sourceId": "0xdf9bf27ee5757c55b44b8b9826ddc9ec3a8809aa3278634c45edbb7fc8f1a3e3",
+      "title": "Will there be no change in Fed interest rates after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
+      "probability": 96,
+      "closesAt": "2026-10-29T03:59:00.000Z",
+      "volume": 27762793.646818
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x12aa13b3da17ceae1b0a59b5d5b77121e91bb79b4bb0b52bf6543ed3f8d0953b",
+      "title": "Will the Fed increase interest rates by 25 bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
+      "probability": 4,
+      "closesAt": "2026-10-29T03:59:00.000Z",
+      "volume": 19421259.421319
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
+      "title": "Will the Democratic Party control the House after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
+      "probability": 92,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 13986499.275119005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x9cf563d7b55aa9aa876d5d7e55126347eee473f0ae56d799e325fdef2bf25297",
+      "title": "Will the Fed decrease interest rates by 25 bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
+      "probability": 1,
+      "closesAt": "2026-10-29T03:59:00.000Z",
+      "volume": 13368759.172279002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xde5d75ab7702875623ba509bc923241e1211da74a113521b3b70ddac930d7316",
+      "title": "Will the Fed increase interest rates by 50+ bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
+      "probability": 1,
+      "closesAt": "2026-10-29T03:59:00.000Z",
+      "volume": 12708644.101969
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
+      "title": "2026 Balance of Power: R Senate, R House",
+      "url": "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537",
+      "probability": 8,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 12509231.217344003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xa69ef420d8b4075ad8ba8611d02c63cb2ece46f5c8c643af223c272689b0c96f",
+      "title": "Will the Fed decrease interest rates by 50+ bps after the October 2026 meeting?",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324029",
+      "probability": 1,
+      "closesAt": "2026-10-29T03:59:00.000Z",
+      "volume": 10165360.504547
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x16c63b7cc37f012b9f59ee164ec03877914c701d06d48291ae8d6fc08a088b0d",
+      "title": "2026 Balance of Power: D Senate, D House",
+      "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
+      "probability": 66,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 8656380.151430001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x0808de4f0cfd47947f2d1be51f9a9c52ea0fec76f73a75cfbe79ddec98d8a908",
+      "title": "2026 Balance of Power: D Senate, R House",
+      "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-r-house-692",
+      "probability": 1,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 8475188.012281999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3738ad9665480991affe3ba286cd035516e17d1f8b7703e05088ec19c70c21a4",
+      "title": "US x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917",
+      "probability": 95,
+      "closesAt": "2026-10-31T23:59:00.000Z",
+      "volume": 7241523.123997
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xcee04ba47d02f6c64642369b34193c355f64de1b9ae425c71ea4efef1989d271",
+      "title": "US announces end of Iranian blockade by October 31, 2026?",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696",
+      "probability": 3,
+      "closesAt": "2026-11-01T03:59:00.000Z",
+      "volume": 6381604.983991001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x307a1ed89d60b61002dd5bbf00e1408c5ed2ab3fcdb056191ca7ef9bc34d38f3",
+      "title": "Will the Democratic Party control the Senate after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
+      "probability": 67,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 5899976.061324
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x998bc71817b2d76921d1999ce0f3431cfd5945583667a371280ca2b430b0c06e",
+      "title": "2026 Balance of Power: R Senate, D House",
+      "url": "https://polymarket.com/event/2026-balance-of-power-r-senate-d-house-444",
+      "probability": 27,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 5461374.568913999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x7987a821b8032824f1805ee39eb5dfb8f64603e4e9e673259eb76f82b439fd3d",
+      "title": "2026 Balance of Power: Other",
+      "url": "https://polymarket.com/event/2026-balance-of-power-other-131",
+      "probability": 1,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 5043887.909129
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x86bfb53af7250a40928975c551d12c185b762fa4ce0b40c6a64a50c946d72587",
+      "title": "Will the Republican Party control the Senate after the 2026 Midterm elections?",
+      "url": "https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
+      "probability": 34,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 4211620.980562
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x94521176f57d2ce81dde01e0b7699ca4279423042d37ed53908f0c8bfefe7e14",
+      "title": "Will the Republicans win the Texas Senate race in 2026?",
+      "url": "https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026",
+      "probability": 33,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 4145984.973335001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc3d5708780de5528998aeb53ca90e7ade64804f9f2386392a681435d5c42b44d",
+      "title": "Israel x Iran ceasefire continues through October 31?",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-october-31",
+      "probability": 95,
+      "closesAt": "2026-10-31T20:29:00.000Z",
+      "volume": 3532018.292442
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x405b56fc75f56d7635a94df9836d6cb6f9b9571d1fd33eb165c1e59d1d11801f",
+      "title": "Strait of Hormuz traffic returns to normal by October 31?",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-october-31-20260810151043583",
+      "probability": 1,
+      "closesAt": "2026-11-01T03:59:00.000Z",
+      "volume": 3508707.9003310003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3db74f14fa0c4d8acb19ff4ffa18d523597a8e553ec565d494290a908d99395a",
+      "title": "Will the Milwaukee Brewers win the 2026 World Series?",
+      "url": "https://polymarket.com/event/will-the-milwaukee-brewers-win-the-2026-world-series",
+      "probability": 92,
+      "closesAt": "2026-10-31T23:55:00.000Z",
+      "volume": 2957384.275538
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x4d9567b9fa71a94b6e43ddb62ea6104cbb01926813938d241cce336bd72a8ba5",
+      "title": "Will the Tampa Bay Rays win the 2026 World Series?",
+      "url": "https://polymarket.com/event/will-the-tampa-bay-rays-win-the-2026-world-series",
+      "probability": 9,
+      "closesAt": "2026-10-31T23:55:00.000Z",
+      "volume": 2190571.740752
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xff019ccfa1337dc7d12968183949ff5877a8b66ab19903e42331a7b94f97cfd7",
+      "title": "US x Iran ceasefire continues through October 28?",
+      "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-28",
+      "probability": 98,
+      "closesAt": "2026-10-29T03:59:00.000Z",
+      "volume": 1460448.9382190001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x613613192c69d90cee89758c260a019368fc1f4a596b4d300c39b6235d2b643f",
+      "title": "US-Iran ceasefire continues through the midterms?",
+      "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms",
+      "probability": 90,
+      "closesAt": "2026-11-04T04:59:00.000Z",
+      "volume": 1412778.2112089999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x8a4196617dcb703e49d9bb36d3847bf6a75fd364dbd19f8d408ac944bf1a03d8",
+      "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "probability": 77,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 1300548.125121
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x42dc04e485b5d8ec749326fe564820ee37a1c63425f43d7b0755a016afd5c4cb",
+      "title": "Will Bitcoin reach $87,500 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
+      "probability": 5,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 1182925.015007
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xf17ad24eb4ad57926495b114149c765b9b95bc286eadc91cbbfa901ceb10d0b8",
+      "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+      "probability": 1,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 1154510.386407
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x723822eb2b143cee54c0bd7c1efba322b21f0051984c266df8879c394f1011c0",
+      "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
+      "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
+      "probability": 20,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 1128917.0044020002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x910aabbfae28b3569929c31fb5461f4db13f7ddd427bdee1e696d313125838e3",
+      "title": "Will Puma Shen win the next Taipei Mayor election?",
+      "url": "https://polymarket.com/event/will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
+      "probability": 32,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 1058947.706251
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xbf7a9da08326512f76129d4accf9f7d852dbf1cb7dd2c512479ff40c872f5659",
+      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+      "probability": 68,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 997673.4816290002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x4e22f6d2ae4af77a41c1f57a3f077e3c32606c826b987406d6e27fac9ddad7aa",
+      "title": "Will Bitcoin dip to $77,500 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
+      "probability": 23,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 886565.099014
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x94f623a9c9ac7e0caca65b1ab664e8158ebb8ec0c826b023ba98518967910755",
+      "title": "Will Bitcoin reach $90,000 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
+      "probability": 2,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 854577.117525
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xff6a852f912fc6548ec130b05de014f21b1a26342adedef20e4103bb97b4e81d",
+      "title": "Will Bitcoin dip to $62,500 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-october-2026",
+      "probability": 1,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 758256.6386380001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x98c266979031b3ee6c87ea5b8b671be0e242e13f9be4c123ff2c21ef46ff62c3",
+      "title": "Will Gen.G win Worlds 2026?",
+      "url": "https://polymarket.com/event/will-genptg-win-worlds-2026",
+      "probability": 44,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 714995.286425
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb62c2292b069f6dd1f94c0b642452d168a6e9bdf7f3012865a435d4503e1311f",
+      "title": "Will Bitcoin reach $85,000 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
+      "probability": 18,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 646991.013914
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x758784e5d3076107c30fee0658405306e8c2bd051c9be06af638d63b5dd6b1d2",
+      "title": "Will Bitcoin dip to $67,500 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-67pt5k-in-october-2026",
+      "probability": 1,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 444513.838032
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x5ce14dd9eb04b5a41104cef63b33194b64b70ae4bb8587957632b99288782822",
+      "title": "Will Bitcoin reach $82,500 in October?",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
+      "probability": 56,
+      "closesAt": "2026-11-01T04:00:00.000Z",
+      "volume": 222967.820431
+    }
+  ]
+}
