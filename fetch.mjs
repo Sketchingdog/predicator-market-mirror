@@ -7,7 +7,7 @@
 import fs from 'node:fs';
 
 const NOW = Date.now();
-const MIN_CLOSE_MS = 12 * 3600_000;      // 至少 12 小时后才结算
+const MIN_CLOSE_MS = 8 * 3600_000;       // 至少 8 小时后才结算（早8点推题要覆盖当晚赛事）
 const MAX_CLOSE_MS = 45 * 24 * 3600_000; // 最多 45 天内结算（周期太长对训练没意义）
 
 const norm = (s) => String(s ?? '').trim();
