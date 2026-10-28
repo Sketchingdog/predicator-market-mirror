@@ -27,8 +27,9 @@ async function fetchJson(url, label) {
 }
 
 async function fetchPolymarket() {
+  // 拉 200 条按 24h 成交量排序的活跃市场，给类别多样性留出余量
   const data = await fetchJson(
-    'https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=100&order=volume24hr&ascending=false',
+    'https://gamma-api.polymarket.com/markets?active=true&closed=false&limit=200&order=volume24hr&ascending=false',
     'polymarket',
   );
   const out = [];
@@ -47,6 +48,7 @@ async function fetchPolymarket() {
         source: 'polymarket',
         sourceId: norm(m.conditionId ?? m.id),
         title: norm(m.question),
+        category: norm(m.category ?? ''),
         url: m.slug ? `https://polymarket.com/event/${m.slug}` : 'https://polymarket.com',
         probability: clampProb(prob),
         closesAt: new Date(m.endDate).toISOString(),
@@ -78,6 +80,7 @@ async function fetchMetaculus() {
         source: 'metaculus',
         sourceId: String(p.id),
         title: norm(p.title),
+        category: '',
         url: `https://www.metaculus.com/questions/${p.id}/`,
         probability: clampProb(Number(cp) * 100),
         closesAt: new Date(closeIso).toISOString(),
@@ -105,7 +108,7 @@ results.sort((a, b) => b.volume - a.volume);
 const payload = {
   fetchedAt: new Date(NOW).toISOString(),
   failedSources: errors,
-  questions: results.slice(0, 40),
+  questions: results.slice(0, 120),
 };
 fs.mkdirSync('data', { recursive: true });
 fs.writeFileSync('data/questions.json', JSON.stringify(payload, null, 2));
