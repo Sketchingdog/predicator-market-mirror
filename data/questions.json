@@ -1,7 +1,6 @@
 {
-  "fetchedAt": "2026-10-28T09:27:58.247Z",
+  "fetchedAt": "2026-10-28T09:39:13.059Z",
   "failedSources": [
-    "polymarket-soccer",
     "metaculus"
   ],
   "questions": [
@@ -13,7 +12,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-october-2026-meeting-20260617190324031",
       "probability": 95,
       "closesAt": "2026-10-29T03:59:00.000Z",
-      "volume": 28478316.390813
+      "volume": 28484337.674817003
     },
     {
       "source": "polymarket",
@@ -23,7 +22,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324032",
       "probability": 5,
       "closesAt": "2026-10-29T03:59:00.000Z",
-      "volume": 19484758.99258
+      "volume": 19517108.741639998
     },
     {
       "source": "polymarket",
@@ -33,7 +32,7 @@
       "url": "https://polymarket.com/event/will-the-democratic-party-control-the-house-after-the-2026-midterm-elections",
       "probability": 92,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 14005584.180875001
+      "volume": 14007953.122364003
     },
     {
       "source": "polymarket",
@@ -43,7 +42,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-october-2026-meeting-20260617190324030",
       "probability": 1,
       "closesAt": "2026-10-29T03:59:00.000Z",
-      "volume": 13666649.272278998
+      "volume": 13675649.272279
     },
     {
       "source": "polymarket",
@@ -53,7 +52,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-october-2026-meeting-20260617190324033",
       "probability": 1,
       "closesAt": "2026-10-29T03:59:00.000Z",
-      "volume": 12940677.139964001
+      "volume": 12941224.709964
     },
     {
       "source": "polymarket",
@@ -63,7 +62,7 @@
       "url": "https://polymarket.com/event/2026-balance-of-power-r-senate-r-house-537",
       "probability": 8,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 12544665.496000003
+      "volume": 12544815.496000003
     },
     {
       "source": "polymarket",
@@ -83,7 +82,7 @@
       "url": "https://polymarket.com/event/will-the-republican-party-control-the-house-after-the-2026-midterm-elections",
       "probability": 9,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 10276579.115346
+      "volume": 10286348.320902001
     },
     {
       "source": "polymarket",
@@ -93,7 +92,7 @@
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-d-house-949",
       "probability": 66,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 8767323.850523
+      "volume": 8767329.877666002
     },
     {
       "source": "polymarket",
@@ -103,7 +102,7 @@
       "url": "https://polymarket.com/event/2026-balance-of-power-d-senate-r-house-692",
       "probability": 1,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 8581837.954000998
+      "volume": 8581837.954001002
     },
     {
       "source": "polymarket",
@@ -113,7 +112,7 @@
       "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-31-20260917",
       "probability": 95,
       "closesAt": "2026-10-31T23:59:00.000Z",
-      "volume": 7267583.068215
+      "volume": 7267589.128215001
     },
     {
       "source": "polymarket",
@@ -123,7 +122,7 @@
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-october-31-2026-20260727171711632-895-372-622-413-171-454-592-696",
       "probability": 3,
       "closesAt": "2026-11-01T03:59:00.000Z",
-      "volume": 6401689.509539001
+      "volume": 6401689.509538999
     },
     {
       "source": "polymarket",
@@ -133,7 +132,7 @@
       "url": "https://polymarket.com/event/will-the-democratic-party-control-the-senate-after-the-2026-midterm-elections",
       "probability": 67,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 5907995.166063
+      "volume": 5907998.196063
     },
     {
       "source": "polymarket",
@@ -143,7 +142,7 @@
       "url": "https://polymarket.com/event/2026-balance-of-power-other-131",
       "probability": 1,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 5044897.909128999
+      "volume": 5044897.909129
     },
     {
       "source": "polymarket",
@@ -153,7 +152,7 @@
       "url": "https://polymarket.com/event/will-the-republican-party-control-the-senate-after-the-2026-midterm-elections",
       "probability": 34,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 4250293.374576
+      "volume": 4250369.951408001
     },
     {
       "source": "polymarket",
@@ -163,7 +162,7 @@
       "url": "https://polymarket.com/event/will-the-republicans-win-the-texas-senate-race-in-2026",
       "probability": 33,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 4147639.68029
+      "volume": 4147942.7105940003
     },
     {
       "source": "polymarket",
@@ -173,7 +172,7 @@
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-october-31",
       "probability": 97,
       "closesAt": "2026-10-31T20:29:00.000Z",
-      "volume": 3662783.5238719997
+      "volume": 3663669.121206
     },
     {
       "source": "polymarket",
@@ -183,7 +182,7 @@
       "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-october-31-20260810151043583",
       "probability": 1,
       "closesAt": "2026-11-01T03:59:00.000Z",
-      "volume": 3567217.2493999996
+      "volume": 3567217.2494
     },
     {
       "source": "polymarket",
@@ -193,7 +192,7 @@
       "url": "https://polymarket.com/event/will-the-milwaukee-brewers-win-the-2026-world-series",
       "probability": 91,
       "closesAt": "2026-10-31T23:55:00.000Z",
-      "volume": 2999731.9639200005
+      "volume": 2999790.826348
     },
     {
       "source": "polymarket",
@@ -203,7 +202,7 @@
       "url": "https://polymarket.com/event/will-the-tampa-bay-rays-win-the-2026-world-series",
       "probability": 9,
       "closesAt": "2026-10-31T23:55:00.000Z",
-      "volume": 2366417.777866
+      "volume": 2366512.3544619996
     },
     {
       "source": "polymarket",
@@ -213,7 +212,7 @@
       "url": "https://polymarket.com/event/us-x-iran-ceasefire-continues-through-october-28",
       "probability": 98,
       "closesAt": "2026-10-29T03:59:00.000Z",
-      "volume": 1480091.4429809998
+      "volume": 1480121.1291750001
     },
     {
       "source": "polymarket",
@@ -223,7 +222,7 @@
       "url": "https://polymarket.com/event/us-iran-ceasefire-continues-through-the-midterms",
       "probability": 91,
       "closesAt": "2026-11-04T04:59:00.000Z",
-      "volume": 1415277.544609
+      "volume": 1415295.544609
     },
     {
       "source": "polymarket",
@@ -241,9 +240,9 @@
       "title": "Will Bitcoin reach $87,500 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-reach-87pt5k-in-october-2026",
-      "probability": 6,
+      "probability": 5,
       "closesAt": "2026-11-01T04:00:00.000Z",
-      "volume": 1197092.059609
+      "volume": 1197117.059609
     },
     {
       "source": "polymarket",
@@ -283,7 +282,7 @@
       "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
       "probability": 67,
       "closesAt": "2026-11-29T04:59:00.000Z",
-      "volume": 1001719.5477100002
+      "volume": 1001719.5477100001
     },
     {
       "source": "polymarket",
@@ -291,9 +290,9 @@
       "title": "Will Bitcoin dip to $77,500 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-77pt5k-in-october-2026",
-      "probability": 14,
+      "probability": 13,
       "closesAt": "2026-11-01T04:00:00.000Z",
-      "volume": 912444.09402
+      "volume": 914871.3940199998
     },
     {
       "source": "polymarket",
@@ -303,7 +302,7 @@
       "url": "https://polymarket.com/event/will-bitcoin-reach-90k-in-october-2026",
       "probability": 2,
       "closesAt": "2026-11-01T04:00:00.000Z",
-      "volume": 878740.2696569999
+      "volume": 878740.269657
     },
     {
       "source": "polymarket",
@@ -311,9 +310,9 @@
       "title": "Will Bitcoin reach $85,000 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-reach-85k-in-october-2026-from-october-7",
-      "probability": 22,
+      "probability": 20,
       "closesAt": "2026-11-01T04:00:00.000Z",
-      "volume": 659796.31697
+      "volume": 662791.6169700001
     },
     {
       "source": "polymarket",
@@ -321,9 +320,9 @@
       "title": "Will Bitcoin reach $82,500 in October?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-october-2026-from-october-22",
-      "probability": 71,
+      "probability": 68,
       "closesAt": "2026-11-01T04:00:00.000Z",
-      "volume": 261883.50094700002
+      "volume": 262452.969092
     },
     {
       "source": "polymarket",
@@ -331,9 +330,239 @@
       "title": "Will Flávio Bolsonaro return to Brazil by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-flavio-bolsonaro-return-to-brazil-by-november-30-2026",
-      "probability": 84,
+      "probability": 89,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 77144.00531400001
+      "volume": 81601.810062
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xec4122eb837277f4b8a827ab5a1236695d5c8312e6038abed790af2f7391d63e",
+      "title": "Will FC Barcelona win on 2026-10-31?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-bar-ala-2026-10-31",
+      "probability": 89,
+      "closesAt": "2026-10-31T20:00:00.000Z",
+      "volume": 68270.42826799999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x44c1567d702440740577e8622dfb54bce16a6f6ac763ca83b2039433a9f0c8f7",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/es2-sab-rso-2026-11-09-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-09T19:30:00.000Z",
+      "volume": 61190
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x550520d0196b36a7bb392c3137358a6826b6767eb31514247b359b72df024e85",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ere-utr-nec-2026-11-08-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-08T19:00:00.000Z",
+      "volume": 46750
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x846687b0d97ac126bb8f31ace7617769eb39b382b20bc78f2f4c84d5e9c7dcf4",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/bun-koe-b04-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:30:00.000Z",
+      "volume": 43740
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x534f508586e5f718383c4e26e840e315d6eab3cb83a9e36730f9f81e2bed72e3",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/sea-mon-ata-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 42754
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x47ef30a936d3b6102b4bf01b51f3f5a4ee789a215ec609f4e9646dc9041f39d1",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ere-cam-psv-2026-11-08-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-08T15:45:00.000Z",
+      "volume": 42604
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xd74528da9eafa40fcfe8ac30e8bdbf2496ac84b1a06ed951ad490725f509eb07",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/por-ama-ben-2026-11-08-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-08T20:30:00.000Z",
+      "volume": 41834
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xaa95c7aae45fbff379050ab32ff9a8017b488fbbac6552d680e7f8dcb99c4d73",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/es2-gir-alm-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T15:15:00.000Z",
+      "volume": 40250
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xa325dc0fb23a1ec500c412bdde3ad4b95fb20a3d8ad4899676d7028349d1ebfb",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/tur-cf-fen-2026-11-08-exact-score",
+      "probability": 23,
+      "closesAt": "2026-11-08T13:00:00.000Z",
+      "volume": 39868
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xadc11aaf3b1f5afa59ef0ffe6a6db6345252c5199dd8fa00aa6c282f74829c76",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/epl-cry-liv-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 39220
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x662dfbf9f9c905eade735235c9edb08c8816e4026ce400a37898b1ff523eef32",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ere-twe-aja-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T13:30:00.000Z",
+      "volume": 39042
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xa06f3df0d8b91915e361f050e9c2cea6cc4a54b2032ee4521f5646125e38471a",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ere-az-gro-2026-11-08-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-08T15:45:00.000Z",
+      "volume": 38988
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb62790ddd2acc37f95e0aa38616bc4970621533abfbaa173ef668021c293161b",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-elc-bet-2026-11-08-exact-score",
+      "probability": 22,
+      "closesAt": "2026-11-08T13:00:00.000Z",
+      "volume": 38846
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x1127a58481a283c4cfdac7e74ad8d104131fd2e779190276853ad25298c779fa",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/epl-ips-bou-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 38226
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x26714e3032d6e47a7acf5c800f969cb560126c10a5252f2826778b7895aea204",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/por-est-csm-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T15:30:00.000Z",
+      "volume": 37852
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb07442f34ce09e94e84847896f913140110e3b2982b839da2733e4bfd9b0b959",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/epl-bri-bre-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 37776
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x1c1e6043768806e4007132f8155e940ed5742395f622c10f13bb32ecc225d5a9",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-rso-ray-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T15:15:00.000Z",
+      "volume": 37144
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x4a456e17dd71fd6d2884750de7f09b8172665877af7cb9e5e8547647a80f6dd4",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/sea-gen-mil-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 36171.959666
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x789f9325ab0caee68f7b88f92e9270e6001b86c0fdbf338fbf839a8bddfbf06d",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/epl-sun-che-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 36114
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb383ad54681e42b14c4d40fc332c7b094484574945f08e1e8c7350aebcd63bc2",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/fl1-ren-lil-2026-11-08-exact-score",
+      "probability": 25,
+      "closesAt": "2026-11-08T14:00:00.000Z",
+      "volume": 35935.969666000005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x9f5d2d3a198ccc60624f788d01f8fd6e414fa75383c922aba8d301007528dda1",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/por-rio-scb-2026-11-08-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-08T20:30:00.000Z",
+      "volume": 35278
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3d12777b6423ef4a2ff27924f78b0196787fc71c23001127c3d9f0f222859de5",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/scop-hmi-fal-2026-11-08-exact-score",
+      "probability": 37,
+      "closesAt": "2026-11-08T15:00:00.000Z",
+      "volume": 33078
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x95686d6adb33370b18d3e60d310696b5f9ce204b8c034618c055367d83fc4233",
+      "title": "Exact Score: Any Other Score?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/bl2-hei-h96-2026-11-08-exact-score",
+      "probability": 21,
+      "closesAt": "2026-11-08T12:30:00.000Z",
+      "volume": 21692
     }
   ]
 }
