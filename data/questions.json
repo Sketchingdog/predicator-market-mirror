@@ -1,18 +1,88 @@
 {
-  "fetchedAt": "2026-11-04T03:04:39.393Z",
+  "fetchedAt": "2026-11-05T03:35:34.490Z",
   "failedSources": [
     "metaculus"
   ],
   "questions": [
     {
       "source": "polymarket",
+      "sourceId": "0x8a4196617dcb703e49d9bb36d3847bf6a75fd364dbd19f8d408ac944bf1a03d8",
+      "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
+      "probability": 78,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 3200719.016340999
+    },
+    {
+      "source": "polymarket",
       "sourceId": "0x723822eb2b143cee54c0bd7c1efba322b21f0051984c266df8879c394f1011c0",
       "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "probability": 24,
+      "probability": 22,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 2864430.169017
+      "volume": 3101882.7164550005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xf17ad24eb4ad57926495b114149c765b9b95bc286eadc91cbbfa901ceb10d0b8",
+      "title": "Will the Fed decrease interest rates by 25 bps after the December 2026 meeting?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
+      "probability": 1,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 2500979.704613
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb9aee520bf51ac5f00b5c43e54ef9245bc9fcdef866ce8a33025f9a441cc651d",
+      "title": "Will the Fed decrease interest rates by 50+ bps after the December 2026 meeting?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
+      "probability": 1,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 2209957.49564
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xa5f8a44504de30fa36fff2406b2b27b3d15476ed50448e4fc3ead4861d8a5e3e",
+      "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
+      "probability": 1,
+      "closesAt": "2026-12-09T23:59:00.000Z",
+      "volume": 1880333.4524129997
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x910aabbfae28b3569929c31fb5461f4db13f7ddd427bdee1e696d313125838e3",
+      "title": "Will Puma Shen win the next Taipei Mayor election?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
+      "probability": 31,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 1677133.7443130002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xbf7a9da08326512f76129d4accf9f7d852dbf1cb7dd2c512479ff40c872f5659",
+      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+      "probability": 70,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 1533719.001769
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xd64b917e1f7cdf1ad3f51326cf8985ce80e140291d2eaf2bf62821ef02231550",
+      "title": "Strait of Hormuz traffic returns to normal by November 30?",
+      "category": "",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-november-30-20260810151158765",
+      "probability": 4,
+      "closesAt": "2026-12-01T04:59:00.000Z",
+      "volume": 1494034.8498579997
     },
     {
       "source": "polymarket",
@@ -20,9 +90,19 @@
       "title": "US announces end of Iranian blockade by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-30-2026",
-      "probability": 22,
+      "probability": 24,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 1219130.2525379998
+      "volume": 1423655.199555
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x98c266979031b3ee6c87ea5b8b671be0e242e13f9be4c123ff2c21ef46ff62c3",
+      "title": "Will Gen.G win Worlds 2026?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-genptg-win-worlds-2026",
+      "probability": 53,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 1258173.44339
     },
     {
       "source": "polymarket",
@@ -30,9 +110,19 @@
       "title": "US announces end of Iranian blockade by November 15, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-15-2026",
-      "probability": 9,
+      "probability": 11,
       "closesAt": "2026-11-16T04:59:00.000Z",
-      "volume": 601361.866635
+      "volume": 848892.6383890001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x7a611b2ae4e3b871580dececcf7cf126eead47fe58ebea15b1865a7c8a881376",
+      "title": "Iran leadership change by November 30?",
+      "category": "",
+      "url": "https://polymarket.com/event/iran-leadership-change-by-november-30",
+      "probability": 3,
+      "closesAt": "2026-12-01T04:59:00.000Z",
+      "volume": 743902.5719720001
     },
     {
       "source": "polymarket",
@@ -40,29 +130,49 @@
       "title": "Will Al Qadisiyah Saudi Club vs. Al Fayha Saudi Club end in a draw?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-qad-fay-2026-11-05",
-      "probability": 94,
+      "probability": 98,
       "closesAt": "2026-11-05T17:30:00.000Z",
-      "volume": 448036.64922
+      "volume": 522202.35416999995
     },
     {
       "source": "polymarket",
-      "sourceId": "0x8941f985cce9ac4a175ce7a0a3d75f38536a43de46517d75aa9658ee2cf55574",
-      "title": "Will Real Madrid CF win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-aek1-rma-2026-11-04",
-      "probability": 82,
-      "closesAt": "2026-11-04T17:45:00.000Z",
-      "volume": 212852.78680600002
+      "sourceId": "0xac7deb260d4926829a16fb8b55a57b483ec2379644742ef9926fe7a9b1d67993",
+      "title": "Israel x Iran ceasefire continues through November 7?",
+      "category": "",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-7",
+      "probability": 91,
+      "closesAt": "2026-11-08T04:59:00.000Z",
+      "volume": 517127.21797
     },
     {
       "source": "polymarket",
-      "sourceId": "0x74b8d673854163ba2555bbcc69c63d851a8f4ee81f584de729d879abf55087f6",
-      "title": "Will Al Hazem SC vs. Al Nassr Saudi Club end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-haz-nsr-2026-11-06",
-      "probability": 93,
-      "closesAt": "2026-11-06T14:55:00.000Z",
-      "volume": 186972.50202599997
+      "sourceId": "0x424a867e38eb3fe7b37575a384495667ffd1f276a52e73ad57b199ff5842588f",
+      "title": "Israel x Iran ceasefire continues through November 5?",
+      "category": "",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-5",
+      "probability": 99,
+      "closesAt": "2026-11-06T04:59:00.000Z",
+      "volume": 487979.7564030001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x7b880f05737c43e369fd60f79407a2c06713ab3fdfd7d7cc5426222e3fd470ee",
+      "title": "Israel x Iran ceasefire continues through November 6?",
+      "category": "",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-6",
+      "probability": 96,
+      "closesAt": "2026-11-07T04:59:00.000Z",
+      "volume": 344878.311286
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x2d858f0a25a61dfde6485f3d8e75aed397bed616c3e458b66e10e642fb2f9759",
+      "title": "Pete Hegseth out as Secretary of Defense by November 30?",
+      "category": "",
+      "url": "https://polymarket.com/event/pete-hegseth-out-as-secretary-of-defense-by-october-31-20261001003401433",
+      "probability": 35,
+      "closesAt": "2026-12-01T04:59:00.000Z",
+      "volume": 240114.644659
     },
     {
       "source": "polymarket",
@@ -70,9 +180,19 @@
       "title": "Will Al Qadisiyah Saudi Club win on 2026-11-05?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-qad-fay-2026-11-05",
-      "probability": 5,
+      "probability": 2,
       "closesAt": "2026-11-05T17:30:00.000Z",
-      "volume": 186826.630281
+      "volume": 238306.31230900003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x74b8d673854163ba2555bbcc69c63d851a8f4ee81f584de729d879abf55087f6",
+      "title": "Will Al Hazem SC vs. Al Nassr Saudi Club end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/spl-haz-nsr-2026-11-06",
+      "probability": 98,
+      "closesAt": "2026-11-06T14:55:00.000Z",
+      "volume": 215503.38870699998
     },
     {
       "source": "polymarket",
@@ -80,19 +200,9 @@
       "title": "Will Al Kholood Saudi Club vs. Al Khaleej Saudi Club end in a draw?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-kho-kha-2026-11-05",
-      "probability": 93,
+      "probability": 99,
       "closesAt": "2026-11-05T13:25:00.000Z",
-      "volume": 170791.018725
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x649464e499de1d8868818d547f832f1d8ed53aa6ae7c64c00df03ca344f3243c",
-      "title": "Will Al Ettifaq Saudi Club vs. Al Hilal Saudi Club end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ett-hil-2026-11-07",
-      "probability": 88,
-      "closesAt": "2026-11-07T14:30:00.000Z",
-      "volume": 153275.719731
+      "volume": 206960.47844500002
     },
     {
       "source": "polymarket",
@@ -100,39 +210,19 @@
       "title": "Will Abha Saudi Club vs. Al Shabab Saudi Club end in a draw?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-abh-sha-2026-11-05",
-      "probability": 93,
+      "probability": 98,
       "closesAt": "2026-11-05T15:10:00.000Z",
-      "volume": 152322.996844
+      "volume": 179522.539676
     },
     {
       "source": "polymarket",
-      "sourceId": "0x69aeb202063d522a2138eea4af2b246ded0b5f0a369e3533844d3c3a91126b7a",
-      "title": "Will AEK win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-aek1-rma-2026-11-04",
-      "probability": 7,
-      "closesAt": "2026-11-04T17:45:00.000Z",
-      "volume": 121027.18995500001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x754e203bfb592ff3c09749bca7b10ca3ac9be45458520c61e961935b6caed382",
-      "title": "Will Al Ittihad Saudi Club vs. NEOM SC end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ith-neo-2026-11-06",
-      "probability": 96,
-      "closesAt": "2026-11-06T17:30:00.000Z",
-      "volume": 114963.055012
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xbeec46d3e8d541f88cf31490af661c7cb65c8373943ea3fe54129d4c9c0b8e03",
-      "title": "Will Al Ahli Saudi Club vs. Al Taawoun Saudi Club end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ahl-taa-2026-11-07",
-      "probability": 93,
-      "closesAt": "2026-11-07T17:30:00.000Z",
-      "volume": 99135.277117
+      "sourceId": "0x91939b8ad89002f2767be1a52340ad96b6cad68651925567a4e099cceb320813",
+      "title": "Will the price of Ethereum be above $2,400 on November 5?",
+      "category": "",
+      "url": "https://polymarket.com/event/ethereum-above-2400-on-november-5-2026",
+      "probability": 77,
+      "closesAt": "2026-11-05T17:00:00.000Z",
+      "volume": 168364.67301200004
     },
     {
       "source": "polymarket",
@@ -140,39 +230,19 @@
       "title": "Will Al Nassr Saudi Club win on 2026-11-06?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-haz-nsr-2026-11-06",
-      "probability": 6,
+      "probability": 2,
       "closesAt": "2026-11-06T14:55:00.000Z",
-      "volume": 80034.64007099999
+      "volume": 150310.42922899997
     },
     {
       "source": "polymarket",
-      "sourceId": "0xcd77ee0ddabb7edae7498631da52a756f1982c6e143e61dde7bcc09bda2d89fc",
-      "title": "Will FC Porto win on 2026-11-04?",
+      "sourceId": "0xbeec46d3e8d541f88cf31490af661c7cb65c8373943ea3fe54129d4c9c0b8e03",
+      "title": "Will Al Ahli Saudi Club vs. Al Taawoun Saudi Club end in a draw?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-por-nap-2026-11-04",
-      "probability": 50,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 73991.053322
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x9b16807f201e683a768a215bbbe207ce5a62330e4857bc0fdd99004c3bdb190f",
-      "title": "Will SK Slavia Praha win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-slp-ars-2026-11-04",
-      "probability": 7,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 70826.427208
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x7ecbed0fc6e82394d9983b0f6710c35ae0cfcb17e9c9e52ccbc8ecd124450164",
-      "title": "Will Al Fateh Saudi Club vs. Al Riyadh Saudi Club end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-fat-riy-2026-11-06",
-      "probability": 91,
-      "closesAt": "2026-11-06T14:30:00.000Z",
-      "volume": 70511.636253
+      "url": "https://polymarket.com/event/spl-ahl-taa-2026-11-07",
+      "probability": 98,
+      "closesAt": "2026-11-07T17:30:00.000Z",
+      "volume": 115553.90492300002
     },
     {
       "source": "polymarket",
@@ -182,67 +252,17 @@
       "url": "https://polymarket.com/event/spl-qad-fay-2026-11-05",
       "probability": 1,
       "closesAt": "2026-11-05T17:30:00.000Z",
-      "volume": 70389.99535699999
+      "volume": 96302.65531799999
     },
     {
       "source": "polymarket",
-      "sourceId": "0x00bf60ca050d9b85b354bcdbb72c1de9a6856ac1ab42b5a10a93efd5c2030448",
-      "title": "Will Liverpool FC win on 2026-11-04?",
+      "sourceId": "0x0e6225d32307876c909c236af7b2713bc72b447f0eb16a9aecefbca2bf4bb5bd",
+      "title": "Will Crystal Palace FC win on 2026-11-05?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-fen-liv-2026-11-04",
-      "probability": 66,
-      "closesAt": "2026-11-04T17:45:00.000Z",
-      "volume": 49569.764834
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x46db2fc121b730b4a1801717d4f10c596dba4b614c394338e2a1f38099fc6dc3",
-      "title": "Will Al Faisaly Saudi Club vs. Al Diraiyah Saudi Club end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-fai-dir-2026-11-07",
-      "probability": 91,
-      "closesAt": "2026-11-07T13:20:00.000Z",
-      "volume": 49473.98685200001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xa42222b5a52a82d6ccbbc9ccc5345cf906ddafac21ae0d6a2c037a3133471bf3",
-      "title": "Will Arsenal FC win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-slp-ars-2026-11-04",
-      "probability": 80,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 44942.789718
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x4600fa98414da4d2fd03e7d3777d33048c381e520bfd9f069ea4d72269040fe2",
-      "title": "Will Al Shabab Saudi Club win on 2026-11-05?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-abh-sha-2026-11-05",
-      "probability": 6,
-      "closesAt": "2026-11-05T15:10:00.000Z",
-      "volume": 44657.428251
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x48eb73573ebc922e4a7db0259400caa8dd154dcca817ffa9774997242913155e",
-      "title": "Will Al Kholood Saudi Club win on 2026-11-05?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-kho-kha-2026-11-05",
-      "probability": 4,
-      "closesAt": "2026-11-05T13:25:00.000Z",
-      "volume": 41973.37931
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x44154e9ca1d55e96177b4c1cafa74ae3f20a433eadde96b8ac33beaf29d23c2e",
-      "title": "Will Al Khaleej Saudi Club win on 2026-11-05?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-kho-kha-2026-11-05",
-      "probability": 5,
-      "closesAt": "2026-11-05T13:25:00.000Z",
-      "volume": 40811.21393400001
+      "url": "https://polymarket.com/event/uel-cry-hof-2026-11-05",
+      "probability": 51,
+      "closesAt": "2026-11-05T17:45:00.000Z",
+      "volume": 71705.91836899999
     },
     {
       "source": "polymarket",
@@ -250,29 +270,39 @@
       "title": "Will Al Hazem SC win on 2026-11-06?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-haz-nsr-2026-11-06",
-      "probability": 2,
+      "probability": 1,
       "closesAt": "2026-11-06T14:55:00.000Z",
-      "volume": 39034.38923
+      "volume": 65610.32859699999
     },
     {
       "source": "polymarket",
-      "sourceId": "0x4d541d48972dbef1579d1467f902c4fe41fe0c45202f1af3caeff0917e605fb7",
-      "title": "Will CD Universidad de Concepción vs. O'Higgins FC end in a draw?",
+      "sourceId": "0x4600fa98414da4d2fd03e7d3777d33048c381e520bfd9f069ea4d72269040fe2",
+      "title": "Will Al Shabab Saudi Club win on 2026-11-05?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/chi1-cu1-ohf-2026-11-05",
-      "probability": 96,
-      "closesAt": "2026-11-05T23:00:00.000Z",
-      "volume": 34179.758234999994
+      "url": "https://polymarket.com/event/spl-abh-sha-2026-11-05",
+      "probability": 2,
+      "closesAt": "2026-11-05T15:10:00.000Z",
+      "volume": 64172.44961999999
     },
     {
       "source": "polymarket",
-      "sourceId": "0xf164b7c40b2b6b3f911fb72d6e305ca03e68e500456dfba0b861672d0f665655",
-      "title": "Will Al Hilal Saudi Club win on 2026-11-07?",
+      "sourceId": "0x48eb73573ebc922e4a7db0259400caa8dd154dcca817ffa9774997242913155e",
+      "title": "Will Al Kholood Saudi Club win on 2026-11-05?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ett-hil-2026-11-07",
-      "probability": 8,
-      "closesAt": "2026-11-07T14:30:00.000Z",
-      "volume": 33742.67768400001
+      "url": "https://polymarket.com/event/spl-kho-kha-2026-11-05",
+      "probability": 1,
+      "closesAt": "2026-11-05T13:25:00.000Z",
+      "volume": 54130.773211
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x44154e9ca1d55e96177b4c1cafa74ae3f20a433eadde96b8ac33beaf29d23c2e",
+      "title": "Will Al Khaleej Saudi Club win on 2026-11-05?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/spl-kho-kha-2026-11-05",
+      "probability": 1,
+      "closesAt": "2026-11-05T13:25:00.000Z",
+      "volume": 50411.435634
     },
     {
       "source": "polymarket",
@@ -280,9 +310,9 @@
       "title": "Will Abha Saudi Club win on 2026-11-05?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-abh-sha-2026-11-05",
-      "probability": 3,
+      "probability": 1,
       "closesAt": "2026-11-05T15:10:00.000Z",
-      "volume": 33200.173571
+      "volume": 40242.39870599999
     },
     {
       "source": "polymarket",
@@ -290,59 +320,49 @@
       "title": "Will Al Ahli Saudi Club win on 2026-11-07?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-ahl-taa-2026-11-07",
-      "probability": 5,
+      "probability": 2,
       "closesAt": "2026-11-07T17:30:00.000Z",
-      "volume": 30719.684515999994
+      "volume": 35124.817838
     },
     {
       "source": "polymarket",
-      "sourceId": "0x2854ddedfcfeaedf46d7606d43508916b464888f992e5ea4c6d064a4118d9c99",
-      "title": "Will PSV win on 2026-11-04?",
+      "sourceId": "0x08982e3d6343c9c709695249999da537858d3c9db8ef6ae8ce616499ad25f529",
+      "title": "Will Beşiktaş JK win on 2026-11-05?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-psv-bru-2026-11-04",
-      "probability": 50,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 26265.675624
+      "url": "https://polymarket.com/event/uel-cel-bes-2026-11-05",
+      "probability": 45,
+      "closesAt": "2026-11-05T20:00:00.000Z",
+      "volume": 33594.43221100001
     },
     {
       "source": "polymarket",
-      "sourceId": "0x0901a4d37586a85adcea2af221d5093728ad316483468e7626a0f691f119696a",
-      "title": "Will Al Ettifaq Saudi Club win on 2026-11-07?",
+      "sourceId": "0xd89ed9aea30f0ebe806a4cc5a39678a89ad6651fe1cd1ff01a9e3323ad9f3f7b",
+      "title": "Will AC Milan win on 2026-11-05?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ett-hil-2026-11-07",
-      "probability": 8,
-      "closesAt": "2026-11-07T14:30:00.000Z",
-      "volume": 16281.555376000002
+      "url": "https://polymarket.com/event/uel-mil1-ftc-2026-11-05",
+      "probability": 73,
+      "closesAt": "2026-11-05T17:45:00.000Z",
+      "volume": 32009.215716000006
     },
     {
       "source": "polymarket",
-      "sourceId": "0x8ea125b805993f3590aa200d55b02895f0403fd81eb617ddc3fcb8e5a144ef03",
-      "title": "Will Al Faisaly Saudi Club win on 2026-11-07?",
+      "sourceId": "0xb08d4211cc9304192c286ad59ff893bc3e8ade214587b31e48356b83a86cf329",
+      "title": "Will FC Internazionale Milano win on 2026-11-08?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/spl-fai-dir-2026-11-07",
-      "probability": 7,
-      "closesAt": "2026-11-07T13:20:00.000Z",
-      "volume": 11822.136385999998
+      "url": "https://polymarket.com/event/sea-int-com-2026-11-08",
+      "probability": 53,
+      "closesAt": "2026-11-08T17:00:00.000Z",
+      "volume": 25477.975229
     },
     {
       "source": "polymarket",
-      "sourceId": "0xa212a76ce6e4f555b4dcf17b6193984b4fc21093ae587fcd8e77db1ff8125f1e",
-      "title": "Will Al Fateh Saudi Club win on 2026-11-06?",
+      "sourceId": "0x74de1bfe48903804a5b924b4c2cb84ee3fe3b99442928e2d1fc8898d40de545d",
+      "title": "Will Ferencvárosi TC win on 2026-11-05?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/spl-fat-riy-2026-11-06",
-      "probability": 7,
-      "closesAt": "2026-11-06T14:30:00.000Z",
-      "volume": 11683.447446000002
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xe49d67145baf9da32153e4dcb3dd95b32adfe89e2883e805e832b09236fa9d51",
-      "title": "Will Al Ittihad Saudi Club win on 2026-11-06?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ith-neo-2026-11-06",
-      "probability": 5,
-      "closesAt": "2026-11-06T17:30:00.000Z",
-      "volume": 10627.068413
+      "url": "https://polymarket.com/event/uel-mil1-ftc-2026-11-05",
+      "probability": 11,
+      "closesAt": "2026-11-05T17:45:00.000Z",
+      "volume": 18749.966526
     },
     {
       "source": "polymarket",
@@ -350,129 +370,9 @@
       "title": "Will Al Taawoun Saudi Club win on 2026-11-07?",
       "category": "soccer",
       "url": "https://polymarket.com/event/spl-ahl-taa-2026-11-07",
-      "probability": 4,
+      "probability": 1,
       "closesAt": "2026-11-07T17:30:00.000Z",
-      "volume": 10345.142825
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x7313373dd880fd44bed727fc40acb6621701363b21274a8d3715835bd4734dc5",
-      "title": "Will NEOM SC win on 2026-11-06?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-ith-neo-2026-11-06",
-      "probability": 1,
-      "closesAt": "2026-11-06T17:30:00.000Z",
-      "volume": 10050.187805000001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x1996f970326b6b1d764d836fbbb3f7e743c3156cc91a48f0647182703b164b4e",
-      "title": "Will Al Riyadh Saudi Club win on 2026-11-06?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-fat-riy-2026-11-06",
-      "probability": 4,
-      "closesAt": "2026-11-06T14:30:00.000Z",
-      "volume": 10038.62496
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x22733a6d76ea86a6c45d4af8df4ca2b4e5242b3a6b5a610637fb4789aaf0dd1f",
-      "title": "Will Al Diraiyah Saudi Club win on 2026-11-07?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/spl-fai-dir-2026-11-07",
-      "probability": 1,
-      "closesAt": "2026-11-07T13:20:00.000Z",
-      "volume": 9522.773127999999
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x144030ce3116247c6ea53f56aae48857b934bcd62a2b7b8bbc7dd952cd9d4ec0",
-      "title": "Will O'Higgins FC win on 2026-11-05?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/chi1-cu1-ohf-2026-11-05",
-      "probability": 4,
-      "closesAt": "2026-11-05T23:00:00.000Z",
-      "volume": 7573.104579
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xa98f1371108dfffc8908efcdd5ccbe93cfdd2ab148d37eb5910072fc80b80030",
-      "title": "Will Club Brugge KV win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-psv-bru-2026-11-04",
-      "probability": 31,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 7272.520628
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x21cb3058a5a4a4c1be68401a8fe47494240a8e908807cc6bdb66566616b44a30",
-      "title": "Will SSC Napoli win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-por-nap-2026-11-04",
-      "probability": 25,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 6430.506659000001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xbeeaf4585509c4ee490e1e0ed5ab62ab3b0fc73d47704c710530e728d6a7f294",
-      "title": "Will CD Universidad de Concepción win on 2026-11-05?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/chi1-cu1-ohf-2026-11-05",
-      "probability": 1,
-      "closesAt": "2026-11-05T23:00:00.000Z",
-      "volume": 6039.583533
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x56333a8cb685e5bf56809f9331570defa1610d60222de4e4ac7d45024fa788a9",
-      "title": "Will FC Porto vs. SSC Napoli end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-por-nap-2026-11-04",
-      "probability": 27,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 4552.137567
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x966ee5e52c4347af1b6014a84b24f616da2d41809847080db9fa17272d0fee3c",
-      "title": "Will Fenerbahçe SK win on 2026-11-04?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-fen-liv-2026-11-04",
-      "probability": 16,
-      "closesAt": "2026-11-04T17:45:00.000Z",
-      "volume": 3114.4645389999996
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x2cdf2ba3625a8ef942f00cd1bd6c09025cfb8f579d0dce3d3e386316bbf44247",
-      "title": "Will AEK vs. Real Madrid CF end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-aek1-rma-2026-11-04",
-      "probability": 12,
-      "closesAt": "2026-11-04T17:45:00.000Z",
-      "volume": 2634.1931900000004
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x001a2e52d94f5cf26c6401504e5d3f6764b21bbb80dbbbd66b301eeaac09b6e0",
-      "title": "Will Fenerbahçe SK vs. Liverpool FC end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-fen-liv-2026-11-04",
-      "probability": 20,
-      "closesAt": "2026-11-04T17:45:00.000Z",
-      "volume": 2093.922109
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x3d0132ab005fb05b4bfd10ea1b5ac1051c228c1149ea4ef48bcdd9af2a9b2f91",
-      "title": "RB Leipzig vs. Manchester City FC: Both Teams to Score",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/ucl-rbl-mnc-2026-11-04-more-markets",
-      "probability": 68,
-      "closesAt": "2026-11-04T20:00:00.000Z",
-      "volume": 2036.7631500000002
+      "volume": 12913.517101000001
     }
   ]
 }
