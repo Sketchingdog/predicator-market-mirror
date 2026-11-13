@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-12T03:58:03.924Z",
+  "fetchedAt": "2026-11-13T03:29:26.383Z",
   "failedSources": [
     "metaculus"
   ],
@@ -10,9 +10,9 @@
       "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "probability": 86,
+      "probability": 89,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 6995177.706478
+      "volume": 7992081.353604999
     },
     {
       "source": "polymarket",
@@ -22,7 +22,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "probability": 3,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 6796071.588933
+      "volume": 7347871.72123
     },
     {
       "source": "polymarket",
@@ -32,7 +32,7 @@
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
       "probability": 10,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 4734434.180923001
+      "volume": 5411179.90916
     },
     {
       "source": "polymarket",
@@ -42,7 +42,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
       "probability": 1,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 4000126.537803001
+      "volume": 4952711.380127999
     },
     {
       "source": "polymarket",
@@ -52,7 +52,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
       "probability": 1,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 3769756.206436
+      "volume": 4282596.604770999
     },
     {
       "source": "polymarket",
@@ -60,9 +60,9 @@
       "title": "US announces end of Iranian blockade by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-30-2026",
-      "probability": 11,
+      "probability": 8,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 2916171.690899
+      "volume": 3048244.2547379998
     },
     {
       "source": "polymarket",
@@ -70,9 +70,9 @@
       "title": "Israel x Iran ceasefire continues through November 15?",
       "category": "",
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-15",
-      "probability": 97,
+      "probability": 95,
       "closesAt": "2026-11-16T04:59:00.000Z",
-      "volume": 2570256.9165200004
+      "volume": 2952576.8469710005
     },
     {
       "source": "polymarket",
@@ -82,7 +82,7 @@
       "url": "https://polymarket.com/event/will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
       "probability": 35,
       "closesAt": "2026-11-29T04:59:00.000Z",
-      "volume": 2490152.191629
+      "volume": 2590304.7821510006
     },
     {
       "source": "polymarket",
@@ -90,149 +90,119 @@
       "title": "US announces end of Iranian blockade by November 15, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-15-2026",
-      "probability": 3,
+      "probability": 2,
       "closesAt": "2026-11-16T04:59:00.000Z",
-      "volume": 2440747.9817460002
+      "volume": 2552289.741123
     },
     {
       "source": "polymarket",
-      "sourceId": "0xbf7a9da08326512f76129d4accf9f7d852dbf1cb7dd2c512479ff40c872f5659",
-      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "sourceId": "0x91e20860241f7c90fcff5ec348a68f953bd66a02d5662ac26cab32ac1f904be6",
+      "title": "Will Pedro Sánchez be the next Prime Minister of Spain?",
       "category": "",
-      "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
-      "probability": 66,
-      "closesAt": "2026-11-29T04:59:00.000Z",
-      "volume": 2218861.232484
+      "url": "https://polymarket.com/event/will-pedro-sanchez-be-the-next-prime-minister-of-spain-20260625005710096",
+      "probability": 17,
+      "closesAt": "2026-11-30T04:59:00.000Z",
+      "volume": 1211570.28235
     },
     {
       "source": "polymarket",
-      "sourceId": "0x835acf3bffe67dcfb5e5f97aba52414739b6f5ff1970195b52d97bb374796155",
-      "title": "Jensen Huang announced resignation or removal by November 12, 2026?",
+      "sourceId": "0x97c0b1316b8d9ba677414e8a682948e7560c1af60fc239b085a68cc467c21f23",
+      "title": "Will Alberto Núñez Feijóo be the next Prime Minister of Spain?",
       "category": "",
-      "url": "https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-by-november-12-2026",
-      "probability": 66,
-      "closesAt": "2026-11-13T04:59:00.000Z",
-      "volume": 876848.84636
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x72d0d224c0e02942c86b32ac385f14ca419120abc485c2601991d85cceac8b8f",
-      "title": "Jensen Huang announced resignation or removal by November 13, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-by-november-13-2026",
-      "probability": 69,
-      "closesAt": "2026-11-14T04:59:00.000Z",
-      "volume": 390150.308416
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x6537d883f6dd80cb7c159d20e81fe7f23a2b5296c04114540aefc046f3439859",
-      "title": "Jensen Huang announced resignation or removal by November 30, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/jensen-huang-announced-resignation-or-removal-by-november-30-2026",
-      "probability": 82,
-      "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 322230.314859
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xc4632bf991b5671a392de9a8e0927cf3d252c39c2302ff53e5e4a09a77d025db",
-      "title": "Will France win on 2026-11-12?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-ita-fra-2026-11-12",
-      "probability": 52,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 194100.24454400002
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x2747b06126dcc29805d43dfbe83834700b280d804b78b710502b46f9b71198f8",
-      "title": "Will Elon Musk post 180-199 tweets from November 6 to November 13, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-6-november-13-2026-180-199",
-      "probability": 2,
-      "closesAt": "2026-11-13T17:00:00.000Z",
-      "volume": 168542.850169
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xd175edb03029c8105ee17b6e78b4a529beb8183ffd72cb357169272b48eeac4f",
-      "title": "Will the price of Bitcoin be above $66,000 on November 12?",
-      "category": "",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-november-12-2026",
-      "probability": 99,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 131427.851135
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x2d0c3cc0e0bcf29dbd26da1d3e9595a209d5fd93784376c23e92f7e3e20a893f",
-      "title": "Will England win on 2026-11-12?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-eng-hrv-2026-11-12",
-      "probability": 80,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 112809.056203
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x3d03992c2efed1ca55ea67d2b070c854225b7fc6e48b67ea9ae0d7743f5cc120",
-      "title": "Will SCU Torreense vs. Sparta Prague end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/uwec-tor-spa-2026-11-11",
-      "probability": 25,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 107511.498837
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x31e1275d2ace15f708f650dfd0a91fab1abc7c4aaad7853db1171606c97083ee",
-      "title": "Will Spain win on 2026-11-12?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-cze-esp-2026-11-12",
+      "url": "https://polymarket.com/event/will-alberto-nunez-feijoo-be-the-next-prime-minister-of-spain-20260625005710103",
       "probability": 83,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 106005.567849
+      "closesAt": "2026-11-30T04:59:00.000Z",
+      "volume": 941544.3053710001
     },
     {
       "source": "polymarket",
-      "sourceId": "0x5dc125674305b8747b012421d18b043c56fa967bf3f271ea4bed733dd51bec02",
-      "title": "Russia x Ukraine energy ceasefire agreement by November 15, 2026?",
+      "sourceId": "0xe66f6bc1b92d873779c2ffd142511c29492602a732a49e4b1c2bef1653149f24",
+      "title": "Israel x Iran ceasefire continues through November 22?",
       "category": "",
-      "url": "https://polymarket.com/event/russia-x-ukraine-energy-ceasefire-agreement-by-november-15-2026",
-      "probability": 3,
-      "closesAt": "2026-11-15T21:59:00.000Z",
-      "volume": 87733.44545199999
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-22",
+      "probability": 86,
+      "closesAt": "2026-11-23T04:59:00.000Z",
+      "volume": 646418.7120429999
     },
     {
       "source": "polymarket",
-      "sourceId": "0x8a5ca72f2ece6e01c4bcc3c6e6c4d70d4be30f068e348499595a9d050b0fa375",
-      "title": "Will Ethereum reach $2,500 November 9-15?",
+      "sourceId": "0xa01649379bc429cd4accf6085af4ac7bc070d1932ec830ab1f1a94b37a9253b2",
+      "title": "Will Predict.fun launch a token by November 15, 2026?",
       "category": "",
-      "url": "https://polymarket.com/event/will-ethereum-reach-2500-november-9-15-2026",
-      "probability": 2,
+      "url": "https://polymarket.com/event/will-predictfun-launch-a-token-by-november-15-2026-20261026105916511",
+      "probability": 1,
+      "closesAt": "2026-11-16T04:59:00.000Z",
+      "volume": 404393.110844
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x0f4cc90457bc2a22fdc4dd705e6941cd719015ab117af3e55bdbdb1dfa13dc90",
+      "title": "US x Iran Effective Ceasefire by November 15?",
+      "category": "",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasefire-by-november-15-20261108",
+      "probability": 42,
+      "closesAt": "2026-11-15T20:29:00.000Z",
+      "volume": 262438.00254200003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x818e475b0cb3c956150d3ed07a88ff71d814087111f64c5cdc9ab8d521abcb63",
+      "title": "Israel x Iran ceasefire continues through November 13?",
+      "category": "",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-13",
+      "probability": 99,
+      "closesAt": "2026-11-14T04:59:00.000Z",
+      "volume": 147664.017519
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x59b88760a518104714e8dc50ac51f9fbb9311a8f8edfcf3f913e51df2272e509",
+      "title": "Will Bitcoin dip to $66,000 November 9-15?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-66k-november-9-15-2026",
+      "probability": 25,
       "closesAt": "2026-11-16T05:00:00.000Z",
-      "volume": 78843.30449800001
+      "volume": 145825.48658
     },
     {
       "source": "polymarket",
-      "sourceId": "0x4d8293931a5409d12daf6f4a2db84042d8a89e8125f5d9c306b273e7dbba9a57",
-      "title": "Russia x Ukraine energy ceasefire agreement by November 30, 2026?",
+      "sourceId": "0x5f3d241f3fb37511185111acefc91786872e722e8ba0de122291080c29cdce04",
+      "title": "Will Elon Musk post 60-79 tweets from November 10 to November 17, 2026?",
       "category": "",
-      "url": "https://polymarket.com/event/russia-x-ukraine-energy-ceasefire-agreement-by-november-30-2026",
-      "probability": 16,
-      "closesAt": "2026-11-30T21:59:00.000Z",
-      "volume": 73983.583872
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-10-november-17-2026-60-79",
+      "probability": 1,
+      "closesAt": "2026-11-17T17:00:00.000Z",
+      "volume": 111016.7769
     },
     {
       "source": "polymarket",
-      "sourceId": "0x652584ab989f148c6728a673bcaaaac3790e323e551c2d8018e914f49d025674",
-      "title": "Will Belgium win on 2026-11-12?",
+      "sourceId": "0x0dbdb3e45cd6e760fa55ba82ca166107698df63125613461a14a2ce8ab2bbea9",
+      "title": "Will Leyton Orient FC win on 2026-11-14?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-tur-bel-2026-11-12",
-      "probability": 54,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 49537.622776
+      "url": "https://polymarket.com/event/el1-don-ley-2026-11-14",
+      "probability": 1,
+      "closesAt": "2026-11-14T15:00:00.000Z",
+      "volume": 86081.208843
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x55a5a17a7c60634d5d46ad3f1189b44fb96fe97f22e0d99053d65bf4787a0c50",
+      "title": "Will the price of Bitcoin be above $74,000 on November 13?",
+      "category": "",
+      "url": "https://polymarket.com/event/bitcoin-above-74k-on-november-13-2026",
+      "probability": 1,
+      "closesAt": "2026-11-13T17:00:00.000Z",
+      "volume": 79511.050995
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x8b006549865f0a9a1d9881327de6a9ed5fb6b709ddb9717d421f2d0a60a4f14a",
+      "title": "Will Doncaster Rovers FC win on 2026-11-14?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/el1-don-ley-2026-11-14",
+      "probability": 1,
+      "closesAt": "2026-11-14T15:00:00.000Z",
+      "volume": 72949.44851500001
     },
     {
       "source": "polymarket",
@@ -242,7 +212,27 @@
       "url": "https://polymarket.com/event/fif-jor-idn-2026-11-13",
       "probability": 1,
       "closesAt": "2026-11-13T17:00:00.000Z",
-      "volume": 46338.737483000004
+      "volume": 64606.835083000005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x53ddc9f121093392e2641e49763aac199ce66ba76c12121b070e94d9ca328a86",
+      "title": "Will Huddersfield Town AFC win on 2026-11-14?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/el1-wyc-hud-2026-11-14",
+      "probability": 1,
+      "closesAt": "2026-11-14T15:00:00.000Z",
+      "volume": 58383.812359999996
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x327988cf0ca3ec11bfcb032408a538d9f765bfb71f814afa6495e1ec314a3f08",
+      "title": "Will Wycombe Wanderers FC win on 2026-11-14?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/el1-wyc-hud-2026-11-14",
+      "probability": 1,
+      "closesAt": "2026-11-14T15:00:00.000Z",
+      "volume": 56937.059196
     },
     {
       "source": "polymarket",
@@ -252,27 +242,37 @@
       "url": "https://polymarket.com/event/per1-ctd-clc-2026-11-13",
       "probability": 99,
       "closesAt": "2026-11-13T18:00:00.000Z",
-      "volume": 40963.981977
+      "volume": 49214.950618
     },
     {
       "source": "polymarket",
-      "sourceId": "0x92cce4caec3e0a1cb1aaae1263203e81a94142ec5b16c31787a82f5f47898ec4",
-      "title": "Will Czechia win on 2026-11-12?",
+      "sourceId": "0x1904716dc8211764abfbcfaf70bf4df7d4d14e6195c86e1ce6396990d92aa989",
+      "title": "Will Doncaster Rovers FC vs. Leyton Orient FC end in a draw?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-cze-esp-2026-11-12",
-      "probability": 7,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 24750.611716999996
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x4f71581eb42d0d43c3ecb21d46cee614c1e21ad610887f72de549800e4df2de2",
-      "title": "Will Jordan vs. Indonesia end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/fif-jor-idn-2026-11-13",
+      "url": "https://polymarket.com/event/el1-don-ley-2026-11-14",
       "probability": 99,
-      "closesAt": "2026-11-13T17:00:00.000Z",
-      "volume": 23505.96946
+      "closesAt": "2026-11-14T15:00:00.000Z",
+      "volume": 38894.062597
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x6bd4054874801be7006706ebb23810730699deb7c2111e4afa32762d3c5a38c3",
+      "title": "Will Vendée Fontenay Foot win on 2026-11-13?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/cde-usp-vff-2026-11-13",
+      "probability": 1,
+      "closesAt": "2026-11-13T19:00:00.000Z",
+      "volume": 34504.403903
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x0fa4d9a82cdbae1ecc49da5713f46f956ae0b4ed89d679dc5379bc12fe927015",
+      "title": "Will Wycombe Wanderers FC vs. Huddersfield Town AFC end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/el1-wyc-hud-2026-11-14",
+      "probability": 99,
+      "closesAt": "2026-11-14T15:00:00.000Z",
+      "volume": 31810.347984
     },
     {
       "source": "polymarket",
@@ -282,7 +282,37 @@
       "url": "https://polymarket.com/event/fif-jor-idn-2026-11-13",
       "probability": 1,
       "closesAt": "2026-11-13T17:00:00.000Z",
-      "volume": 22066.320604
+      "volume": 28510.741061
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x4f71581eb42d0d43c3ecb21d46cee614c1e21ad610887f72de549800e4df2de2",
+      "title": "Will Jordan vs. Indonesia end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/fif-jor-idn-2026-11-13",
+      "probability": 99,
+      "closesAt": "2026-11-13T17:00:00.000Z",
+      "volume": 26926.459107000002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x5697078139353c712f83eb253c43eaef1db4b35c86caa243f5d14a6bdc0b295b",
+      "title": "Will USPF Saint-Philbert-de-Grand-Lieu win on 2026-11-13?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/cde-usp-vff-2026-11-13",
+      "probability": 1,
+      "closesAt": "2026-11-13T19:00:00.000Z",
+      "volume": 26129.635727
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xcd8c55e3e13056283987e62d1546a863a352a660e89143cc46e1f640df854143",
+      "title": "Will France win 2026-27 Nations League Group A1?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/uefa-nations-league-2026-27-group-a1-winner",
+      "probability": 54,
+      "closesAt": "2026-12-02T04:59:00.000Z",
+      "volume": 25446.679776999998
     },
     {
       "source": "polymarket",
@@ -292,7 +322,17 @@
       "url": "https://polymarket.com/event/per1-ctd-clc-2026-11-13",
       "probability": 1,
       "closesAt": "2026-11-13T18:00:00.000Z",
-      "volume": 21783.831924
+      "volume": 23593.032739
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x97bf2d4c667dec009f7eb737f8df5745a8c3a8b2ac5a91c47aca1fc07668fe0b",
+      "title": "Will USPF Saint-Philbert-de-Grand-Lieu vs. Vendée Fontenay Foot end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/cde-usp-vff-2026-11-13",
+      "probability": 98,
+      "closesAt": "2026-11-13T19:00:00.000Z",
+      "volume": 23354.089870000003
     },
     {
       "source": "polymarket",
@@ -302,97 +342,87 @@
       "url": "https://polymarket.com/event/per1-ctd-clc-2026-11-13",
       "probability": 1,
       "closesAt": "2026-11-13T18:00:00.000Z",
-      "volume": 20179.26464
+      "volume": 22005.224515
     },
     {
       "source": "polymarket",
-      "sourceId": "0xdd461acd003ee84642fa383ce62d7136b084d2bdd157c3d20ab8765aa53b3cf4",
-      "title": "Will Croatia win on 2026-11-12?",
+      "sourceId": "0x7eeea5a442178d3e8a8e898492ce3631357159e81cc1184ed8977da9c2c907ce",
+      "title": "Will Estonia win on 2026-11-13?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-eng-hrv-2026-11-12",
-      "probability": 8,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 16810.999594
+      "url": "https://polymarket.com/event/unl-lux-est-2026-11-13",
+      "probability": 28,
+      "closesAt": "2026-11-13T19:45:00.000Z",
+      "volume": 16318.826478999996
     },
     {
       "source": "polymarket",
-      "sourceId": "0xcab747ca0c5f807169b45c5f8424b7c901e8f4fc45a2d91146005c4b1841677f",
-      "title": "Will Somalia win on 2026-11-12?",
+      "sourceId": "0x9ecb65433ae42bf41c27d912932803e0bd96d1b3faed8c3d1f30923309995c97",
+      "title": "Will Germany win on 2026-11-13?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/afcq-gha-som-2026-11-12",
-      "probability": 2,
-      "closesAt": "2026-11-12T15:00:00.000Z",
-      "volume": 12718.029020000002
+      "url": "https://polymarket.com/event/unl-ser-ger-2026-11-13",
+      "probability": 77,
+      "closesAt": "2026-11-13T19:45:00.000Z",
+      "volume": 13952.330869000001
     },
     {
       "source": "polymarket",
-      "sourceId": "0xe016184c62baf70fda3f5cf6266a1290ce765d3c85b4a4f8950d6c4dcf96b86c",
-      "title": "Czechia vs. Spain: Both Teams to Score",
+      "sourceId": "0xcf8017ee195127348fe013aa975f741262e6a2aa96ba263997a6668066d3af06",
+      "title": "Will Luxembourg win on 2026-11-13?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-cze-esp-2026-11-12-more-markets",
-      "probability": 47,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 12600.617073999998
+      "url": "https://polymarket.com/event/unl-lux-est-2026-11-13",
+      "probability": 41,
+      "closesAt": "2026-11-13T19:45:00.000Z",
+      "volume": 9439.432886
     },
     {
       "source": "polymarket",
-      "sourceId": "0xf5d541e4c71613c4cecc63fd139032d07a705d03cf124e22fda249ff8d0cc33b",
-      "title": "Will Italy win on 2026-11-12?",
+      "sourceId": "0xadeebe748d2bce38df860d58c260358eb2eb9c93c12bbe0caf46db6e9f3a0a30",
+      "title": "Will Scotland win on 2026-11-13?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-ita-fra-2026-11-12",
-      "probability": 24,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 10512.462909
+      "url": "https://polymarket.com/event/unl-sco-mac-2026-11-13",
+      "probability": 83,
+      "closesAt": "2026-11-13T19:45:00.000Z",
+      "volume": 9338.357415
     },
     {
       "source": "polymarket",
-      "sourceId": "0x34b161c05976ced376da63e2b44857b0e793716ab7543a332c1db1c2046520a1",
-      "title": "Will SCU Torreense win on 2026-11-11?",
+      "sourceId": "0x7c237af73467b5cc95fdac6a6793d6178b7b4fedd91e61e58160475612a7f0ee",
+      "title": "Will Italy win 2026-27 Nations League Group A1?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/uwec-tor-spa-2026-11-11",
-      "probability": 60,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 9067.169222
+      "url": "https://polymarket.com/event/uefa-nations-league-2026-27-group-a1-winner",
+      "probability": 39,
+      "closesAt": "2026-12-02T04:59:00.000Z",
+      "volume": 8824.59962
     },
     {
       "source": "polymarket",
-      "sourceId": "0x40360739d0ce4c40eb448e744d3b833621c25d2a1132992ac93f4979c7636c3c",
-      "title": "Will Sparta Prague win on 2026-11-11?",
+      "sourceId": "0xe43b958174739de4e6335e1568cfc2a8f2ae3bddb3a351237cbed1a7ee880d64",
+      "title": "Will North Macedonia win on 2026-11-13?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/uwec-tor-spa-2026-11-11",
-      "probability": 15,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 7232.024584000001
+      "url": "https://polymarket.com/event/unl-sco-mac-2026-11-13",
+      "probability": 5,
+      "closesAt": "2026-11-13T19:45:00.000Z",
+      "volume": 7267.046523999999
     },
     {
       "source": "polymarket",
-      "sourceId": "0x8872aa333dcd6a62e925614a4b1edfd92e184e9ebfb9e8abe4cbe3cca5823cb4",
-      "title": "Will Türkiye win on 2026-11-12?",
+      "sourceId": "0x011aa4c6f3c3e48ca49fbd4331169134197d820923b545cb62b3ab5e9e23dcd0",
+      "title": "Will Belgium win 2026-27 Nations League Group A1?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-tur-bel-2026-11-12",
-      "probability": 25,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 5577.368474999999
+      "url": "https://polymarket.com/event/uefa-nations-league-2026-27-group-a1-winner",
+      "probability": 10,
+      "closesAt": "2026-12-02T04:59:00.000Z",
+      "volume": 5199.215942000001
     },
     {
       "source": "polymarket",
-      "sourceId": "0xaa1123a72c87914973ffcbb6c496c84013d2b8973a3f98bcfd0a7938ebee3bc6",
-      "title": "Will Türkiye vs. Belgium end in a draw?",
+      "sourceId": "0x43455effac5bd4b82a84291c8d63bf0b34efdbb5ad82f5035f9aab0f9e0989cf",
+      "title": "Will Serbia win on 2026-11-13?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-tur-bel-2026-11-12",
-      "probability": 23,
-      "closesAt": "2026-11-12T17:00:00.000Z",
-      "volume": 3558.529255
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x98f5197f6ceba5b978b8ca5ed4f53c0fd6ac09ce39fc2995893dd68f11238497",
-      "title": "Italy vs. France: Both Teams to Score",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-ita-fra-2026-11-12-more-markets",
-      "probability": 60,
-      "closesAt": "2026-11-12T19:45:00.000Z",
-      "volume": 3083.119426
+      "url": "https://polymarket.com/event/unl-ser-ger-2026-11-13",
+      "probability": 9,
+      "closesAt": "2026-11-13T19:45:00.000Z",
+      "volume": 4035.1043579999996
     }
   ]
 }
