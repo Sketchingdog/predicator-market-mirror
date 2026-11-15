@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T03:25:30.291Z",
+  "fetchedAt": "2026-11-15T02:54:40.379Z",
   "failedSources": [
     "metaculus"
   ],
@@ -10,9 +10,9 @@
       "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "probability": 89,
+      "probability": 87,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 8496546.247004999
+      "volume": 8878800.732175
     },
     {
       "source": "polymarket",
@@ -20,9 +20,9 @@
       "title": "Will there be no change in Fed interest rates after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
-      "probability": 3,
+      "probability": 4,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 7927157.745847001
+      "volume": 8321395.318324001
     },
     {
       "source": "polymarket",
@@ -30,9 +30,9 @@
       "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "probability": 8,
+      "probability": 9,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 6286644.016176
+      "volume": 6467802.952685001
     },
     {
       "source": "polymarket",
@@ -42,7 +42,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
       "probability": 1,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 5631607.914165
+      "volume": 5729064.634242998
     },
     {
       "source": "polymarket",
@@ -52,7 +52,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
       "probability": 1,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 4800281.3037169995
+      "volume": 4906407.653723
     },
     {
       "source": "polymarket",
@@ -60,9 +60,19 @@
       "title": "Israel x Iran ceasefire continues through November 15?",
       "category": "",
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-15",
-      "probability": 96,
+      "probability": 98,
       "closesAt": "2026-11-16T04:59:00.000Z",
-      "volume": 3305265.304006
+      "volume": 3494701.22523
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x7a70fc60ee280fa7b4312f5dd128d148d74ae5b3e4a2e8215ccf0030a08ebb04",
+      "title": "US announces end of Iranian blockade by November 30, 2026?",
+      "category": "",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-30-2026",
+      "probability": 7,
+      "closesAt": "2026-12-01T04:59:00.000Z",
+      "volume": 3211379.510478
     },
     {
       "source": "polymarket",
@@ -72,7 +82,27 @@
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-15-2026",
       "probability": 1,
       "closesAt": "2026-11-16T04:59:00.000Z",
-      "volume": 2663535.061555
+      "volume": 2759947.3056810005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xbf7a9da08326512f76129d4accf9f7d852dbf1cb7dd2c512479ff40c872f5659",
+      "title": "Will Chiang Wan-an win the next Taipei Mayor election?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
+      "probability": 66,
+      "closesAt": "2026-11-29T04:59:00.000Z",
+      "volume": 2377958.1747500002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xe66f6bc1b92d873779c2ffd142511c29492602a732a49e4b1c2bef1653149f24",
+      "title": "Israel x Iran ceasefire continues through November 22?",
+      "category": "",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-22",
+      "probability": 91,
+      "closesAt": "2026-11-23T04:59:00.000Z",
+      "volume": 835822.673651
     },
     {
       "source": "polymarket",
@@ -80,19 +110,19 @@
       "title": "Will Bitcoin dip to $57,500 in November?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-november-2026",
-      "probability": 13,
+      "probability": 31,
       "closesAt": "2026-12-01T05:00:00.000Z",
-      "volume": 619947.7542679999
+      "volume": 750912.2948179999
     },
     {
       "source": "polymarket",
-      "sourceId": "0xf10d87e5a4e46d435aa7f6b57e2cc305262145b2b78626808899e38c1ed90052",
-      "title": "Will Bitcoin dip to $65,000 in November?",
+      "sourceId": "0xd2295a289e6ae13eb1727274cfad9c8202e761d8a325bc423a0548b853fea926",
+      "title": "Will Bitcoin dip to $60,000 in November?",
       "category": "",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-65k-in-november-2026",
-      "probability": 66,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-november-2026",
+      "probability": 48,
       "closesAt": "2026-12-01T05:00:00.000Z",
-      "volume": 324953.27869699994
+      "volume": 554129.259811
     },
     {
       "source": "polymarket",
@@ -100,29 +130,9 @@
       "title": "Will Bitcoin dip to $55,000 in November?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026",
-      "probability": 8,
+      "probability": 20,
       "closesAt": "2026-12-01T05:00:00.000Z",
-      "volume": 301870.845017
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x59b88760a518104714e8dc50ac51f9fbb9311a8f8edfcf3f913e51df2272e509",
-      "title": "Will Bitcoin dip to $66,000 November 9-15?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-66k-november-9-15-2026",
-      "probability": 47,
-      "closesAt": "2026-11-16T05:00:00.000Z",
-      "volume": 300686.35055
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xf1ab64a46cf7dcad3664ebbef248d745c703b84dd5ef915f570d113d0cceaebb",
-      "title": "Will Bitcoin dip to $64,000 November 9-15?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-64k-november-9-15-2026",
-      "probability": 11,
-      "closesAt": "2026-11-16T05:00:00.000Z",
-      "volume": 260965.82024300002
+      "volume": 483754.622893
     },
     {
       "source": "polymarket",
@@ -130,9 +140,19 @@
       "title": "Will Bitcoin dip to $62,000 November 9-15?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-62k-november-9-15-2026",
-      "probability": 4,
+      "probability": 31,
       "closesAt": "2026-11-16T05:00:00.000Z",
-      "volume": 209105.63462199998
+      "volume": 431643.580676
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb448e566d3ebb8f8d794a55a9d86664ed36a740319175f01320e1088e1fdb7c8",
+      "title": "Will Bitcoin reach $82,500 in November?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82pt5k-in-november-2026",
+      "probability": 4,
+      "closesAt": "2026-12-01T05:00:00.000Z",
+      "volume": 326802.092648
     },
     {
       "source": "polymarket",
@@ -140,139 +160,69 @@
       "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-november-30-2026",
-      "probability": 5,
+      "probability": 4,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 172724.05182300002
+      "volume": 249022.684237
     },
     {
       "source": "polymarket",
-      "sourceId": "0x9c8c0ef1a573ea1b641900c2cd9f55f084925576fde1c178410146afe348264b",
-      "title": "FAA outage attributed to Iran?",
+      "sourceId": "0xcc19e0eff1fbbaeed0e2cf5fc8464ff95755bad4b179716e43c43a36647e5981",
+      "title": "Will Bitcoin dip to $60,000 November 9-15?",
       "category": "",
-      "url": "https://polymarket.com/event/faa-outage-attributed-to-iran",
-      "probability": 2,
-      "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 126898.85364300001
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-november-9-15-2026",
+      "probability": 13,
+      "closesAt": "2026-11-16T05:00:00.000Z",
+      "volume": 218918.223876
     },
     {
       "source": "polymarket",
-      "sourceId": "0xa8fd5db8702a9d02ace5002412fbae9511732bd7d65e5c39dce5e472d36b9e23",
-      "title": "Will the price of Bitcoin be above $66,000 on November 14?",
+      "sourceId": "0x8673e7528f9bb7ec0c027daa8f16f23316221ab4967d2e1c0de48a7642f5fb43",
+      "title": "Will Bitcoin dip to $58,000 November 9-15?",
       "category": "",
-      "url": "https://polymarket.com/event/bitcoin-above-66k-on-november-14-2026",
-      "probability": 91,
-      "closesAt": "2026-11-14T17:00:00.000Z",
-      "volume": 112356.567582
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-58k-november-9-15-2026",
+      "probability": 6,
+      "closesAt": "2026-11-16T05:00:00.000Z",
+      "volume": 153873.639859
     },
     {
       "source": "polymarket",
-      "sourceId": "0x66db4efa1416ea7bb9d162d932afc55381d7e47f6ba914ba7e952c53fdb532d0",
-      "title": "Will the FAA's nationwide ground stop be lifted by November 14, 12:00 PM ET?",
+      "sourceId": "0x22bb9137e631ae5f09cdaca2b2b80c5b8a9802c7fffb61c21214fedcdb0a05c6",
+      "title": "Will Bitcoin reach $82,000 November 9-15?",
       "category": "",
-      "url": "https://polymarket.com/event/faa-nationwide-ground-stop-lifted-by-november-14-12pm-et",
-      "probability": 99,
-      "closesAt": "2026-11-14T17:00:00.000Z",
-      "volume": 105535.183328
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x007ffa63de01348db05a07a067d8688307578e2ece61aa65e04fbbe884df817e",
-      "title": "Will Elon Musk post 90-114 tweets from November 12 to November 14, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-12-november-14-2026-90-114",
-      "probability": 5,
-      "closesAt": "2026-11-14T17:00:00.000Z",
-      "volume": 98961.86561399998
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x866b4039d8cfb9fa59b4c164b8b0d1958ac7950bc674ed014551ba7a0a77c13c",
-      "title": "Will Bitcoin reach $74,000 November 9-15?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-bitcoin-reach-74k-november-9-15-2026-from-november-12",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-82k-november-9-15-2026",
       "probability": 1,
       "closesAt": "2026-11-16T05:00:00.000Z",
-      "volume": 98588.697991
+      "volume": 152670.068071
     },
     {
       "source": "polymarket",
-      "sourceId": "0x0dbdb3e45cd6e760fa55ba82ca166107698df63125613461a14a2ce8ab2bbea9",
-      "title": "Will Leyton Orient FC win on 2026-11-14?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/el1-don-ley-2026-11-14",
-      "probability": 1,
-      "closesAt": "2026-11-14T15:00:00.000Z",
-      "volume": 98220.260117
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x165a276e862f99ba89b1b5293c95dd8e2cd79b5e0385c1d5e7dd6caf8b980c14",
-      "title": "Will the price of Bitcoin be above $74,000 on November 14?",
+      "sourceId": "0x01fc6e289e2a34ef0deed57d3f9e02a8baeae37ec4bee61cd92eb1f83f870c87",
+      "title": "Will Bitcoin reach $88,000 November 9-15?",
       "category": "",
-      "url": "https://polymarket.com/event/bitcoin-above-74k-on-november-14-2026",
+      "url": "https://polymarket.com/event/will-bitcoin-reach-88k-november-9-15-2026",
       "probability": 1,
-      "closesAt": "2026-11-14T17:00:00.000Z",
-      "volume": 90596.51574599999
+      "closesAt": "2026-11-16T05:00:00.000Z",
+      "volume": 146810.75772599998
     },
     {
       "source": "polymarket",
-      "sourceId": "0x8b006549865f0a9a1d9881327de6a9ed5fb6b709ddb9717d421f2d0a60a4f14a",
-      "title": "Will Doncaster Rovers FC win on 2026-11-14?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/el1-don-ley-2026-11-14",
-      "probability": 1,
-      "closesAt": "2026-11-14T15:00:00.000Z",
-      "volume": 85898.77685000001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xe3a9fc7a3355e316815370b5f473311184b291d3767d6ee0130ac68873c19521",
-      "title": "Will the FAA's nationwide ground stop be lifted by November 15, 12:00 AM ET?",
+      "sourceId": "0xbff3eff0b3eadbedfc67536269b0b0f7a33fc4fa82b3a64a0ac5f1ac44d346ac",
+      "title": "Will Elon Musk post 160-179 tweets from November 10 to November 17, 2026?",
       "category": "",
-      "url": "https://polymarket.com/event/faa-nationwide-ground-stop-lifted-by-november-14-1159pm-et",
-      "probability": 99,
-      "closesAt": "2026-11-15T04:59:00.000Z",
-      "volume": 79876.80877299998
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-10-november-17-2026-160-179",
+      "probability": 1,
+      "closesAt": "2026-11-17T17:00:00.000Z",
+      "volume": 127625.79117799998
     },
     {
       "source": "polymarket",
-      "sourceId": "0x1904716dc8211764abfbcfaf70bf4df7d4d14e6195c86e1ce6396990d92aa989",
-      "title": "Will Doncaster Rovers FC vs. Leyton Orient FC end in a draw?",
+      "sourceId": "0xd6c638bcb23151ae8949f5dc302ad2f8a8629d81222700c0b0979e18f660b3d9",
+      "title": "Will Türkiye win on 2026-11-15?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/el1-don-ley-2026-11-14",
-      "probability": 99,
-      "closesAt": "2026-11-14T15:00:00.000Z",
-      "volume": 43572.288676
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x3148221c6f971c746f5a4fda67a60a81f10bfd76543bd8843a559cf430d0b3e1",
-      "title": "Manchester City punishment announced by December 18?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/manchester-city-punishment-announced-by",
-      "probability": 4,
-      "closesAt": "2026-12-19T04:59:00.000Z",
-      "volume": 25021.898968999998
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x6eccc1f0ec54680dc5885f524d34ee4b91520935dc51b982e915f7dad48f31c1",
-      "title": "Manchester City punishment announced by December 4?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/manchester-city-punishment-announced-by",
-      "probability": 2,
-      "closesAt": "2026-12-05T04:59:00.000Z",
-      "volume": 19054.260864
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x273bfff7e975966338cf1d2c8c9485175e5c019a1d865be8a7f6ccf5bfae26bf",
-      "title": "Manchester City punishment announced by November 20?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/manchester-city-punishment-announced-by",
-      "probability": 2,
-      "closesAt": "2026-11-21T04:59:00.000Z",
-      "volume": 18728.383598
+      "url": "https://polymarket.com/event/unl-fra-tur-2026-11-15",
+      "probability": 7,
+      "closesAt": "2026-11-15T19:45:00.000Z",
+      "volume": 80689.67090699999
     },
     {
       "source": "polymarket",
@@ -282,7 +232,27 @@
       "url": "https://polymarket.com/event/unl-fin-smr-2026-11-15",
       "probability": 1,
       "closesAt": "2026-11-15T17:00:00.000Z",
-      "volume": 18654.7597
+      "volume": 32213.496521
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x362083c0244470b96637c7f25ee32f3e8458ca2755c9785724901e27d66b13ff",
+      "title": "Will France win on 2026-11-15?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/unl-fra-tur-2026-11-15",
+      "probability": 82,
+      "closesAt": "2026-11-15T19:45:00.000Z",
+      "volume": 31660.039871999998
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x6674f9c4291f3aff11a2dff80cff8cdc08bb9e4e223df365face3cc48d09f2ee",
+      "title": "Will England win on 2026-11-15?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/unl-esp-eng-2026-11-15",
+      "probability": 23,
+      "closesAt": "2026-11-15T19:45:00.000Z",
+      "volume": 20473.973995
     },
     {
       "source": "polymarket",
@@ -292,7 +262,27 @@
       "url": "https://polymarket.com/event/unl-fin-smr-2026-11-15",
       "probability": 95,
       "closesAt": "2026-11-15T17:00:00.000Z",
-      "volume": 3561.461828
+      "volume": 10475.205278
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x166ae4c796a91e8dc86bf9bff5b7f8372bff7328a2053220b9a96e0cf808e4ec",
+      "title": "Spain vs. England: Both Teams to Score",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/unl-esp-eng-2026-11-15-more-markets",
+      "probability": 61,
+      "closesAt": "2026-11-15T19:45:00.000Z",
+      "volume": 8418.762508999998
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x5223c4725e1b98444a422c0f53dba751a1ee933757d10ca8d9be5f79dea60956",
+      "title": "Will Spain win on 2026-11-15?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/unl-esp-eng-2026-11-15",
+      "probability": 55,
+      "closesAt": "2026-11-15T19:45:00.000Z",
+      "volume": 7380.055372999999
     }
   ]
 }
