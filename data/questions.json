@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T05:09:31.332Z",
+  "fetchedAt": "2026-11-18T04:37:16.807Z",
   "failedSources": [
     "metaculus"
   ],
@@ -12,27 +12,7 @@
       "url": "https://polymarket.com/event/will-the-us-invade-iran-before-2027",
       "probability": 8,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 80390923.931172
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "title": "Will Jesus Christ return before 2027?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-jesus-christ-return-before-2027",
-      "probability": 1,
-      "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 69620082.82861802
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "title": "Will China invade Taiwan by end of 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-china-invade-taiwan-before-2027",
-      "probability": 2,
-      "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 46674800.130963996
+      "volume": 80468751.92560801
     },
     {
       "source": "polymarket",
@@ -42,17 +22,7 @@
       "url": "https://polymarket.com/event/will-the-us-confirm-that-aliens-exist-before-2027-789-924-249",
       "probability": 2,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 46524031.388326
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "title": "Will the Iranian regime fall before 2027?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-the-iranian-regime-fall-by-the-end-of-2026",
-      "probability": 3,
-      "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 29987576.464893002
+      "volume": 46653394.29212301
     },
     {
       "source": "polymarket",
@@ -62,7 +32,7 @@
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-45000-by-december-31-2026-674-923-755-971-998-525-926-245-316-517-544-589-965-923-986-841-815-224-586-231-289-533-573",
       "probability": 8,
       "closesAt": "2027-01-01T05:00:00.000Z",
-      "volume": 10096617.566907002
+      "volume": 10188610.017229998
     },
     {
       "source": "polymarket",
@@ -70,9 +40,9 @@
       "title": "Will the Fed increase interest rates by 25 bps after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808636",
-      "probability": 92,
+      "probability": 94,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 9137036.921892999
+      "volume": 9513979.411925
     },
     {
       "source": "polymarket",
@@ -82,17 +52,7 @@
       "url": "https://polymarket.com/event/will-there-be-no-change-in-fed-interest-rates-after-the-december-2026-meeting-20260729232808635",
       "probability": 3,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 8708206.999338
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x752fa61c93f16c4b15e85b0bd438d9c684176b0ea7b319a84c8aca34616e8a8c",
-      "title": "Will Bitcoin dip to $55,000 by December 31, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55000-by-december-31-2026-527-627-868-745-188-361-314-673-612-946-821-624-855-557-684-381-884-939-182-939-516",
-      "probability": 28,
-      "closesAt": "2027-01-01T05:00:00.000Z",
-      "volume": 8449233.288880998
+      "volume": 9218831.272226
     },
     {
       "source": "polymarket",
@@ -100,9 +60,19 @@
       "title": "Will the Fed increase interest rates by 50+ bps after the December 2026 meeting?",
       "category": "",
       "url": "https://polymarket.com/event/will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637",
-      "probability": 5,
+      "probability": 4,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 6797157.411269001
+      "volume": 7162446.205718001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x46ca741da4abd7ffa993f59ac65bfe83de43ae027accac71d263a493e44064e7",
+      "title": "US announces end of Iranian blockade by December 31, 2026?",
+      "category": "",
+      "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857",
+      "probability": 17,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 6603810.2974499995
     },
     {
       "source": "polymarket",
@@ -110,9 +80,9 @@
       "title": "Will Bitcoin dip to $50,000 by December 31, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-50000-by-december-31-2026-454-325-222-878-949-487-451-853-523-111",
-      "probability": 14,
+      "probability": 20,
       "closesAt": "2027-01-01T05:00:00.000Z",
-      "volume": 6180599.6728449995
+      "volume": 6260605.2722080005
     },
     {
       "source": "polymarket",
@@ -122,7 +92,17 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-25-bps-after-the-december-2026-meeting-20260729232808634",
       "probability": 1,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 5910942.826896
+      "volume": 6059496.780895
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3b0107a80edd066fe987784d7ab5963c177888433efbec10689951c17320606c",
+      "title": "Will Satoshi move any Bitcoin in 2026?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-satoshi-move-any-bitcoin-in-2026",
+      "probability": 2,
+      "closesAt": "2027-01-01T05:00:00.000Z",
+      "volume": 5976352.280315999
     },
     {
       "source": "polymarket",
@@ -132,7 +112,7 @@
       "url": "https://polymarket.com/event/will-the-fed-decrease-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808633",
       "probability": 1,
       "closesAt": "2026-12-09T23:59:00.000Z",
-      "volume": 5189449.610978001
+      "volume": 5402292.370476
     },
     {
       "source": "polymarket",
@@ -142,7 +122,7 @@
       "url": "https://polymarket.com/event/us-announces-end-of-iranian-blockade-by-november-30-2026",
       "probability": 5,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 3470179.7892529992
+      "volume": 3532978.195174
     },
     {
       "source": "polymarket",
@@ -150,9 +130,29 @@
       "title": "Will Puma Shen win the next Taipei Mayor election?",
       "category": "",
       "url": "https://polymarket.com/event/will-puma-shen-win-the-next-taipei-mayor-election-20260813125857102",
-      "probability": 40,
+      "probability": 41,
       "closesAt": "2026-11-29T04:59:00.000Z",
-      "volume": 3185278.901938
+      "volume": 3476529.246866001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xbbee2a1565cdd53ac3fceee4bdcfee23e9ec63f8222295bd7d08a457a3caa222",
+      "title": "Will Columbus Crew win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 2,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 3254373.0654350007
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xe825cca503fe83bc4ef4b97db242f42c1006b4eeb834ebc76c6eee4fb525f0d7",
+      "title": "Will Real Salt Lake win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 2974558.1975980005
     },
     {
       "source": "polymarket",
@@ -160,9 +160,9 @@
       "title": "Israel x Iran ceasefire continues through December 31?",
       "category": "",
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-december-31-415",
-      "probability": 65,
+      "probability": 67,
       "closesAt": "2026-12-31T20:29:00.000Z",
-      "volume": 2736628.1475220006
+      "volume": 2845000.9846649994
     },
     {
       "source": "polymarket",
@@ -172,7 +172,7 @@
       "url": "https://polymarket.com/event/will-chiang-wan-an-win-the-next-taipei-mayor-election-20260813125857101",
       "probability": 60,
       "closesAt": "2026-11-29T04:59:00.000Z",
-      "volume": 2719512.7264020005
+      "volume": 2815861.2760510007
     },
     {
       "source": "polymarket",
@@ -180,19 +180,29 @@
       "title": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-december-31-2026",
-      "probability": 11,
+      "probability": 9,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 1563502.583146
+      "volume": 2546042.6199509995
     },
     {
       "source": "polymarket",
-      "sourceId": "0x261c26c492bc9452493b3e1c792f26b2e90ed7c1cd6f49f0cb7330b40145bde0",
-      "title": "Kharg Island no longer under Iranian control by December 31?",
+      "sourceId": "0x6c8bc8cd9b2d64358ad995ccee8e998cf0f81a89c4be0b8e51eadf09c6be60ba",
+      "title": "Will Bitcoin dip to $60,000 by December 31, 2026?",
       "category": "",
-      "url": "https://polymarket.com/event/kharg-island-no-longer-under-iranian-control-by-december-31-20260730004337418",
-      "probability": 4,
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-by-december-31-2026-from-july-21",
+      "probability": 60,
+      "closesAt": "2027-01-01T05:00:00.000Z",
+      "volume": 2420829.4564030003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x4a08c641f9dea7e6b8366cc6cef5758e955552051aef4bdc7d5f50c7ae1066b0",
+      "title": "Will Orlando City SC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 2,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 1559951.934819
+      "volume": 2378060.6942600003
     },
     {
       "source": "polymarket",
@@ -200,19 +210,79 @@
       "title": "Will Jensen Huang rejoin NVIDIA by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-jensen-huang-rejoin-nvidia-by-november-30-2026",
-      "probability": 5,
+      "probability": 3,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 1324240.584708
+      "volume": 2264143.5208240002
     },
     {
       "source": "polymarket",
-      "sourceId": "0x7a611b2ae4e3b871580dececcf7cf126eead47fe58ebea15b1865a7c8a881376",
-      "title": "Iran leadership change by November 30?",
-      "category": "",
-      "url": "https://polymarket.com/event/iran-leadership-change-by-november-30",
+      "sourceId": "0xdd40580b22ac93932fdae14c22d6c59a05e02ebf2313ce3eebe60ebf16ad425e",
+      "title": "Will Charlotte FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
       "probability": 2,
-      "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 1227336.312396
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 2045683.7209470004
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xd784299a136fb828bd64fb71cfb97a13441cc1bc3c0fe6f0c6d05013cd22795d",
+      "title": "Will Portland Timbers win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 1882848.165133
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x2dcbc71a3f8108936e768b503d565fbda7a644b2a0bd9ed45f74982a2bb11fba",
+      "title": "Israel x Iran ceasefire continues through November 30?",
+      "category": "",
+      "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-30",
+      "probability": 85,
+      "closesAt": "2026-11-30T20:29:00.000Z",
+      "volume": 1746417.791726
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xea96140746679016b3b848b6e690b2dba05c1be1bac6db282d94413b2f28d303",
+      "title": "Will FC Cincinnati win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 1616519.5769560004
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x652293940a98a7ec9b1d2b23fb9e8399728d1a461dce61523fa2fcce8d844e21",
+      "title": "GTA 6 launch postponed again?",
+      "category": "",
+      "url": "https://polymarket.com/event/gta-6-launch-postponed-again",
+      "probability": 1,
+      "closesAt": "2026-11-20T04:59:00.000Z",
+      "volume": 1336191.2738219998
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc83ebc94c95d2c127a1948e60d5dd517d53c998c23731334c2d17eccfda872e4",
+      "title": "Will New York Red Bulls win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 1267051.9896460003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x1167ff40fdec61c475580f80421c7e32b29b6d4f1b5c91217057fe0aed77521a",
+      "title": "Will San Diego FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 1250412.1456810003
     },
     {
       "source": "polymarket",
@@ -220,9 +290,19 @@
       "title": "Israel x Iran ceasefire continues through November 22?",
       "category": "",
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-22",
-      "probability": 95,
+      "probability": 94,
       "closesAt": "2026-11-23T04:59:00.000Z",
-      "volume": 1023895.9184739998
+      "volume": 1224670.1170430002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3b08ae92e63b8d3c505a66f5b64979469cdf907894510f11b4cf5b2c7ac3dd27",
+      "title": "Will San Jose Earthquakes win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 3,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 1195102.9379429999
     },
     {
       "source": "polymarket",
@@ -230,9 +310,29 @@
       "title": "Israel x Iran ceasefire continues through December 15?",
       "category": "",
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-december-15",
-      "probability": 74,
+      "probability": 73,
       "closesAt": "2026-12-16T04:59:00.000Z",
-      "volume": 930162.655956
+      "volume": 988085.682676
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xea8456818e462ddd25a436cf4e47ddff428e28b64ae3624957ae968012bf9787",
+      "title": "Will Bitcoin dip to $57,500 in November?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-57pt5k-in-november-2026",
+      "probability": 19,
+      "closesAt": "2026-12-01T05:00:00.000Z",
+      "volume": 911896.683378
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xdf916c5f55ba2f73ca8a92460ec26696cdaf55ff8dd103c8437bdbb4e5ac6890",
+      "title": "Will Seattle Sounders FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 2,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 884589.1530200001
     },
     {
       "source": "polymarket",
@@ -240,9 +340,29 @@
       "title": "Will Bitcoin dip to $60,000 in November?",
       "category": "",
       "url": "https://polymarket.com/event/will-bitcoin-dip-to-60k-in-november-2026",
-      "probability": 39,
+      "probability": 38,
       "closesAt": "2026-12-01T05:00:00.000Z",
-      "volume": 681894.9597599999
+      "volume": 747441.6519489998
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xda7193e2495d3a9a68c31665d23f516bda7ddc8fe18a81f7dc56798873610236",
+      "title": "Will New York City FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 743524.2884479999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x7cfd775dc4f2bedbc43fe70493e88a340fcdb0986727c15f4963237231bb806d",
+      "title": "Will Bitcoin dip to $55,000 in November?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-55k-in-november-2026",
+      "probability": 11,
+      "closesAt": "2026-12-01T05:00:00.000Z",
+      "volume": 637373.1373650001
     },
     {
       "source": "polymarket",
@@ -252,17 +372,37 @@
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-18",
       "probability": 99,
       "closesAt": "2026-11-19T04:59:00.000Z",
-      "volume": 410148.55717100005
+      "volume": 554723.2198269999
     },
     {
       "source": "polymarket",
-      "sourceId": "0x88beeb7880c93510adef910041282f91302d1d05d709c9972605aa4c06514da3",
-      "title": "Fourth Jensen Huang affair reported by December 31?",
+      "sourceId": "0x95feddfb444684affe3347fbe3c5af37092a6315ba2b389dc187ad5661527d0a",
+      "title": "Will Predict.fun launch a token by December 31, 2026?",
       "category": "",
-      "url": "https://polymarket.com/event/fourth-jensen-huang-affair-reported-by-december-31",
-      "probability": 50,
+      "url": "https://polymarket.com/event/will-predictfun-launch-a-token-by-december-31-2026",
+      "probability": 80,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 364588.5197700001
+      "volume": 551700.011588
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xfc34e75773ed0ca6791db803af9ace2651c04810c3d33daa79ad3ca6e01ea082",
+      "title": "Will D.C. United win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 543369.598371
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x0c71de9a9203b356c56f6e100a7cd166d5a38cfd0ec726adce6f4e2746b70040",
+      "title": "Will Minnesota United FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 496884.9395200001
     },
     {
       "source": "polymarket",
@@ -270,19 +410,49 @@
       "title": "Will Predict.fun launch a token by November 30, 2026?",
       "category": "",
       "url": "https://polymarket.com/event/will-predictfun-launch-a-token-by-november-30-2026",
-      "probability": 98,
+      "probability": 12,
       "closesAt": "2026-12-01T04:59:00.000Z",
-      "volume": 356330.50694000005
+      "volume": 494412.3493580001
     },
     {
       "source": "polymarket",
-      "sourceId": "0x7978663d03b5c053dcea87b39e06fad5bcdd036b0c7febfa4309502c02f70c2c",
-      "title": "Howard Lutnick out as Secretary of Commerce by December 31?",
-      "category": "",
-      "url": "https://polymarket.com/event/howard-lutnick-out-as-secretary-of-commerce-by-december-31",
-      "probability": 20,
+      "sourceId": "0xe5d244c625a3e56d5c09a50114f145834ce71e679ffb5a217471f0f84f2f3a50",
+      "title": "Will Houston Dynamo FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 3,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 345085.334952
+      "volume": 493099.67205000005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x25bf49c93f524a86fcb640a93ccabec6cd377efb54f4112c2dbf6febc2845442",
+      "title": "Will Vancouver Whitecaps FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 16,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 412349.86993
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3c7507dd1bc657badd37831e75cfe4865eba54f0f237129b22698791b9383f53",
+      "title": "US x Iran Effective Ceasefire by November 22?",
+      "category": "",
+      "url": "https://polymarket.com/event/us-x-iran-effective-ceasefire-by-november-22-20261108",
+      "probability": 41,
+      "closesAt": "2026-11-22T20:29:00.000Z",
+      "volume": 408234.904884
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xbdb8bebb7a28a35d1a3f87d1340404b664c9bd5d32127ff71664a44ddde5da6b",
+      "title": "Will Nashville SC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 23,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 361995.336138
     },
     {
       "source": "polymarket",
@@ -292,117 +462,187 @@
       "url": "https://polymarket.com/event/israel-x-iran-ceasefire-continues-through-november-20",
       "probability": 97,
       "closesAt": "2026-11-21T04:59:00.000Z",
-      "volume": 272700.72011600004
+      "volume": 360205.843252
     },
     {
       "source": "polymarket",
-      "sourceId": "0x2e511a9adb91f1e5be6ddf065ea72f6d9dac25576285f7edfdd265fa85916ab1",
-      "title": "Jensen Huang admits to another affair with a woman by December 31?",
-      "category": "",
-      "url": "https://polymarket.com/event/jensen-huang-admits-to-another-affair-by-december-31",
-      "probability": 34,
+      "sourceId": "0xe895f9e797814789851381b8d794c38582879c8298e652b45a519825ce7ccc92",
+      "title": "Will LA Galaxy win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
       "closesAt": "2027-01-01T04:59:00.000Z",
-      "volume": 219633.574676
+      "volume": 347524.068124
     },
     {
       "source": "polymarket",
-      "sourceId": "0x0381838a293c6b954076eed7201a02530f403e92ab83d15a4ad3e6ebd7343adb",
-      "title": "Will XRP reach $3.00 in November?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-xrp-reach-3-in-november-2026",
-      "probability": 1,
-      "closesAt": "2026-12-01T05:00:00.000Z",
-      "volume": 203403.48303499995
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x60ae94ba87745d4e312ce15d6469fa62011276941e8ee8055a4415332390f125",
-      "title": "Will Elon Musk post 240-259 tweets from November 10 to November 17, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-10-november-17-2026-240-259",
-      "probability": 1,
-      "closesAt": "2026-11-17T17:00:00.000Z",
-      "volume": 146265.481346
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x1bdb6ced8fd571e2db68663537acd1b599f834ed7db5e55ed43746d97f628fd0",
-      "title": "Will Elon Musk post 220-239 tweets from November 10 to November 17, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-10-november-17-2026-220-239",
-      "probability": 1,
-      "closesAt": "2026-11-17T17:00:00.000Z",
-      "volume": 123413.913877
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0xf6e1dbfa2e7484319f60387c687f2ddb6769a6641a455d4cecdc3622ec1c2c4a",
-      "title": "Fourth Jensen Huang affair reported by November 20?",
-      "category": "",
-      "url": "https://polymarket.com/event/fourth-jensen-huang-affair-reported-by-november-20",
-      "probability": 18,
-      "closesAt": "2026-11-21T04:59:00.000Z",
-      "volume": 116480.410181
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x98065f80fd1450b3767b4302a95e833faadc605b158cbd2b530508181d75b456",
-      "title": "Will Elon Musk post 260-279 tweets from November 10 to November 17, 2026?",
-      "category": "",
-      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-10-november-17-2026-260-279",
-      "probability": 22,
-      "closesAt": "2026-11-17T17:00:00.000Z",
-      "volume": 116201.71236800001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x8e00cd642ada2c18ededefa8c7c505a0ad37b9b44ac63376cbacfafbb22c2108",
-      "title": "Will Huang Shih-chieh win the next Taoyuan Mayor election?",
-      "category": "",
-      "url": "https://polymarket.com/event/will-huang-shih-chieh-win-the-next-taoyuan-mayor-election-20260813125857302",
-      "probability": 15,
-      "closesAt": "2026-11-29T04:59:00.000Z",
-      "volume": 102348.072816
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x30f591b6a5ef8336882c76dc7c6f5a31829a98385cc9dc093284803793792bf9",
-      "title": "Will the match end in a draw?",
-      "category": "",
-      "url": "https://polymarket.com/event/crint-afg-zwe-2026-11-13-draw",
+      "sourceId": "0x56a64fe9092457dd13b7a99083695e1d1cd0088b3ae562ceece4ae1911aa3c46",
+      "title": "Will Chicago Fire FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
       "probability": 5,
-      "closesAt": "2026-11-20T05:30:00.000Z",
-      "volume": 75906.528991
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 259131.319763
     },
     {
       "source": "polymarket",
-      "sourceId": "0x4dee85f26e0892475de06eb7c1f2154924b0f6dde5369a74b3d93529b6d7a6cc",
-      "title": "Will Portugal win on 2026-11-17?",
+      "sourceId": "0x453030e67b67b385dd40b3211850a7a451235d8f8ed041589ed387d28252692b",
+      "title": "Will Philadelphia Union win the 2026 MLS Cup?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-wal-prt-2026-11-17",
-      "probability": 70,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 32664.314446
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 5,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 258819.109118
     },
     {
       "source": "polymarket",
-      "sourceId": "0x004431ae01ff503d7a1ee2f5c34e684b2a18ae35e834ca3e6d3afb3bba4a1bbd",
-      "title": "Will Austria win on 2026-11-17?",
+      "sourceId": "0xf7b1b44658d158d01922745364ca2734fc4c24ed5f0ba165fde0264eb81b607f",
+      "title": "Will Colorado Rapids win the 2026 MLS Cup?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-isr-aut-2026-11-17",
-      "probability": 53,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 26441.398332999994
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x7b665fef1bdf8640a4e5a595fae88d5bcaf4f3b91d53406d2b903a9a95ba2618",
-      "title": "Will Indonesia win on 2026-11-17?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/fif-idn-kuw-2026-11-17",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
       "probability": 1,
-      "closesAt": "2026-11-17T14:00:00.000Z",
-      "volume": 14433.587431999998
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 151149.87511400002
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x484d3e1f00df54f5084984da97d330cfc1a898f952d7fe87278944b459864ba9",
+      "title": "Will Inter Miami CF win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 19,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 146644.65534000003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x20ab2877f9ce57868952b77327276b849ba052e5114ca724d600984505e3dbed",
+      "title": "Will Austin FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 137051.64089600006
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3b8ac3e29933893ede723508e9f479379452665f8c85bc6a10dd213a54e954fd",
+      "title": "Will Sporting Kansas City win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 122129.030026
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc28ce947b32874ea66e4e0d531b0858b32c2a21075e85704fc66db90a7d7f086",
+      "title": "Will Toronto FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 120186.474014
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x599d1c309af762d78ef21c3bedba221299e08443cc2edca0dbb7357398761fed",
+      "title": "Will St. Louis City SC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 5,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 113566.631569
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xfd400a600d2344802c8d2bd19bd837e94e7dae1d37a1057254442d8a3db0936c",
+      "title": "Will FC Dallas win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 6,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 107163.28693499997
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x4fc98f65d07f52afbf73e4fd3bcf6901f2fa2391a208e22e200e89332934b34f",
+      "title": "Will Atlanta United FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 103855.09643500003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc25798de609e97ce9f5ebb8cda61cb436a7c1203e7aa838f2dcac6ad361c88b0",
+      "title": "Will Bitcoin dip to $62,500 in November?",
+      "category": "",
+      "url": "https://polymarket.com/event/will-bitcoin-dip-to-62pt5k-in-november-2026-from-november-15",
+      "probability": 66,
+      "closesAt": "2026-12-01T05:00:00.000Z",
+      "volume": 94537.547142
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xa5f7a9148e658369aabd7ffc768659ad8d95701183da4b0e2113f8fa897e040f",
+      "title": "Will Elon Musk post 65-89 tweets from November 16 to November 18, 2026?",
+      "category": "",
+      "url": "https://polymarket.com/event/elon-musk-of-tweets-november-16-november-18-2026-65-89",
+      "probability": 1,
+      "closesAt": "2026-11-18T17:00:00.000Z",
+      "volume": 78058.107247
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x5857e76789a0741fcc37372b6ced835089d02ddb391d1aba99e5e3df7bc9e418",
+      "title": "Will New England Revolution win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 4,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 73271.787861
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb4d78df9536a0503f864829509028345a515c56320807fc44b3b82e5cae53e79",
+      "title": "Will the price of Bitcoin be above $72,000 on November 18?",
+      "category": "",
+      "url": "https://polymarket.com/event/bitcoin-above-72k-on-november-18-2026",
+      "probability": 1,
+      "closesAt": "2026-11-18T17:00:00.000Z",
+      "volume": 66930.436987
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xfa4b4e1b72cbe5f2ed5dcdca162b16bc77d1c15575ad16fc03f41cb78d72e0f8",
+      "title": "Will Los Angeles FC win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 4,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 64647.98816
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xb4c20e4b46aaf7ab65f74179d70de44bbd3734937d05da6e39d722a18f4b3646",
+      "title": "Will CF Montréal win the 2026 MLS Cup?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/mls-cup-winner-2026",
+      "probability": 1,
+      "closesAt": "2027-01-01T04:59:00.000Z",
+      "volume": 63146.865746
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x0a798d7c48acab019ab858160fbdef87b672f733689079e4316ecd84eec3280c",
+      "title": "Will FC Barcelona win on 2026-11-22?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
+      "probability": 82,
+      "closesAt": "2026-11-22T13:00:00.000Z",
+      "volume": 25351.130483999998
     },
     {
       "source": "polymarket",
@@ -410,79 +650,29 @@
       "title": "Will 1. FC Köln win on 2026-11-20?",
       "category": "soccer",
       "url": "https://polymarket.com/event/bun-bay-koe-2026-11-20",
-      "probability": 4,
+      "probability": 3,
       "closesAt": "2026-11-20T19:30:00.000Z",
-      "volume": 13257.293660000003
+      "volume": 24500.92213
     },
     {
       "source": "polymarket",
-      "sourceId": "0x597b2be49d8784b8ff09da4571bc595716938b73cdfa768272384e7c856dff16",
-      "title": "Will Norway win on 2026-11-17?",
+      "sourceId": "0xb146d7376acd8ed1ea031a3c44b42a9c90e60b5a8c7fed3faeb7fa05eabe6c70",
+      "title": "Will AFC Bournemouth win on 2026-11-21?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-den-nor-2026-11-17",
-      "probability": 36,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 13230.532829000002
+      "url": "https://polymarket.com/event/epl-bou-not-2026-11-21",
+      "probability": 51,
+      "closesAt": "2026-11-21T15:00:00.000Z",
+      "volume": 24191.690848000002
     },
     {
       "source": "polymarket",
-      "sourceId": "0xddc87692ccafc80658252f04efb8377e517c5105a50dd91bcf9d76170e897e92",
-      "title": "Will Denmark win on 2026-11-17?",
+      "sourceId": "0x2717d2d6259b48059d6a329e83fb390fe6ebbfabcaa856ea322e29ad959480c1",
+      "title": "Will Real Madrid CF win on 2026-11-21?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-den-nor-2026-11-17",
-      "probability": 42,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 11524.791403000001
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x3be539f7faaa62ae56b6b3cfd61917f4227656eac312e30540eea4e709e9b0d3",
-      "title": "Will Sweden win on 2026-11-17?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-pol-swe-2026-11-17",
-      "probability": 32,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 11291.733785
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x8a02fe2c2f36d0134ddd843e208ff6bc8c0d2c16fffa70f05c3f287a5378b2e1",
-      "title": "Will Bosnia and Herzegovina win on 2026-11-17?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-bih-rom-2026-11-17",
-      "probability": 48,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 10528.221647
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x24e9cec6c069e2bc89df6370f784425dc57d705dc38136f0168df65ee58b9510",
-      "title": "Will Kuwait win on 2026-11-17?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/fif-idn-kuw-2026-11-17",
-      "probability": 1,
-      "closesAt": "2026-11-17T14:00:00.000Z",
-      "volume": 8956.152769999999
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x2da7fc917fdfa09de220fb94421e047b61a66c3dbf82e1c4f67309a0ae23ec3b",
-      "title": "Will Indonesia vs. Kuwait end in a draw?",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/fif-idn-kuw-2026-11-17",
-      "probability": 98,
-      "closesAt": "2026-11-17T14:00:00.000Z",
-      "volume": 7269.6288890000005
-    },
-    {
-      "source": "polymarket",
-      "sourceId": "0x57a640e63f697cf467c6eb1dea090133a495e1dd1dd8bcadfada7006454c303c",
-      "title": "Denmark vs. Norway: Both Teams to Score",
-      "category": "soccer",
-      "url": "https://polymarket.com/event/unl-den-nor-2026-11-17-more-markets",
-      "probability": 70,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 6199.722059
+      "url": "https://polymarket.com/event/lal-rea-cel-2026-11-21",
+      "probability": 84,
+      "closesAt": "2026-11-21T20:00:00.000Z",
+      "volume": 22926.484312
     },
     {
       "source": "polymarket",
@@ -492,37 +682,217 @@
       "url": "https://polymarket.com/event/bun-bay-koe-2026-11-20",
       "probability": 91,
       "closesAt": "2026-11-20T19:30:00.000Z",
-      "volume": 6183.474627
+      "volume": 16260.547970000001
     },
     {
       "source": "polymarket",
-      "sourceId": "0x028f0502b7d4721bc4259e285cbc7e4db0b596fd40662897b44328baf9ac1f03",
-      "title": "Will Wales win on 2026-11-17?",
+      "sourceId": "0x0829f39d333928312c3a2773daf52df5315bd21b8ebde29cb454213cbce3bc2d",
+      "title": "Will Servette FC Chênois Féminin win on 2026-11-19?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-wal-prt-2026-11-17",
-      "probability": 13,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 5847.45971
+      "url": "https://polymarket.com/event/uwcl-fcb-ser-2026-11-19",
+      "probability": 1,
+      "closesAt": "2026-11-19T20:00:00.000Z",
+      "volume": 9030.47
     },
     {
       "source": "polymarket",
-      "sourceId": "0xa6d46fd1b19886d90bb65338a83be0330a7e8b67477c26ae69de9e3d4ece2e4e",
-      "title": "Will Wales vs. Portugal end in a draw?",
+      "sourceId": "0x494ad510e8c30ea2d76789260202ffa7ad1a09709fb3a8ac578eed5cd12f590b",
+      "title": "Will FC Barcelona win on 2026-11-19?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-wal-prt-2026-11-17",
-      "probability": 19,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 4357.741694999999
+      "url": "https://polymarket.com/event/uwcl-fcb-ser-2026-11-19",
+      "probability": 98,
+      "closesAt": "2026-11-19T20:00:00.000Z",
+      "volume": 8820.117419999999
     },
     {
       "source": "polymarket",
-      "sourceId": "0x2c72d3595cc7168dcad5f6c7f7ca0f3546deb27daff4bb309677f9a0062f4993",
-      "title": "Will Poland vs. Sweden end in a draw?",
+      "sourceId": "0x62825c8d55a118056c7ad63eb82a8440214cc4f1a37048dc1a33b90f1218b43b",
+      "title": "Will Villarreal CF win on 2026-11-22?",
       "category": "soccer",
-      "url": "https://polymarket.com/event/unl-pol-swe-2026-11-17",
-      "probability": 27,
-      "closesAt": "2026-11-17T19:45:00.000Z",
-      "volume": 2268.613103
+      "url": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
+      "probability": 7,
+      "closesAt": "2026-11-22T13:00:00.000Z",
+      "volume": 8423.20617
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x1dae84f7aa36ddb8aa59239664a389ca17ef375bafd5c7b7eb9c857fbe049439",
+      "title": "Will FC Barcelona win on 2026-11-25?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-sf-fcb-2026-11-25",
+      "probability": 90,
+      "closesAt": "2026-11-25T17:45:00.000Z",
+      "volume": 7141.996898
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc3e6e3746be043da435146758821767c45b1f32493150709061b0b8d2d1e622d",
+      "title": "Will AEK win on 2026-11-24?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-com-aek1-2026-11-24",
+      "probability": 11,
+      "closesAt": "2026-11-24T20:00:00.000Z",
+      "volume": 6959.764463
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xec0dd8ba6cbff1153c189f94874c2249b3fa0e49033e4dbc2802fa71495ec8c3",
+      "title": "Will BV Borussia 09 Dortmund win on 2026-11-24?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-ars-bvb-2026-11-24",
+      "probability": 12,
+      "closesAt": "2026-11-24T20:00:00.000Z",
+      "volume": 6610.307447000001
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x8a0752c458533fb80eb870e9e9e2a5840c7b1eef1e27b348ab2b63f71d9ca7f6",
+      "title": "Will Arsenal FC vs. BV Borussia 09 Dortmund end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-ars-bvb-2026-11-24",
+      "probability": 18,
+      "closesAt": "2026-11-24T20:00:00.000Z",
+      "volume": 6112.2300000000005
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x3524754e8455c8bc623cb755e964e2351713dc7a424968bec39fc2bec11dbb26",
+      "title": "Will SC Paderborn 07 win on 2026-11-21?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/bun-b04-scp-2026-11-21",
+      "probability": 11,
+      "closesAt": "2026-11-21T14:30:00.000Z",
+      "volume": 5534.023693
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x15baa96388e1db1717b13f25f7bf239ea7fe948ddf3a81ea94e5ff86d2bef9f9",
+      "title": "Will CR Flamengo win on 2026-11-18?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/bra-fla-cap-2026-11-18",
+      "probability": 79,
+      "closesAt": "2026-11-18T23:30:00.000Z",
+      "volume": 5300.327506999999
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xe7c5892cdd402bedfcb5d562d79dd3ab8b64694defc7eee4a2fd5665aa8d1153",
+      "title": "Will FK Bodø/Glimt win on 2026-11-20?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/nor-mol-bog-2026-11-20",
+      "probability": 53,
+      "closesAt": "2026-11-20T18:00:00.000Z",
+      "volume": 4858.139924
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xc8e83d7ba078e6a717cc1102d12536f3eb5a8c830b7e44d8101544c2f5476d5c",
+      "title": "Will Paris Saint-Germain FC win on 2026-11-25?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-psg-rom-2026-11-25",
+      "probability": 74,
+      "closesAt": "2026-11-25T20:00:00.000Z",
+      "volume": 3929.644704
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0xe56850d66e74d3474b36e6a00166f23441ad57e139aac5fa6a0d25b49b4fd405",
+      "title": "Will SS Lazio win on 2026-11-21?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/sea-laz-lec-2026-11-21",
+      "probability": 70,
+      "closesAt": "2026-11-21T14:00:00.000Z",
+      "volume": 3807.857513
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x106e86616f6e2442f23bcc7fe06a2a3c92a8d8ef7c5b8bd92e0fbfc6976edf0f",
+      "title": "Will Sabah FK win on 2026-11-25?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-sf-fcb-2026-11-25",
+      "probability": 5,
+      "closesAt": "2026-11-25T17:45:00.000Z",
+      "volume": 3652.1308530000006
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x0151c0a9ccd5b19670a37f94e6c515f49ef8fbd4ec10954343b9ebe2e1194998",
+      "title": "Will FC Barcelona vs. Villarreal CF end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/lal-bar-vil-2026-11-22",
+      "probability": 12,
+      "closesAt": "2026-11-22T13:00:00.000Z",
+      "volume": 3525.116955
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x7831aee9a3f97e1c6654c34b2cb4cafc99d2954491b9e3201cce737b022ff622",
+      "title": "Will FC Barcelona vs. Servette FC Chênois Féminin end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/uwcl-fcb-ser-2026-11-19",
+      "probability": 1,
+      "closesAt": "2026-11-19T20:00:00.000Z",
+      "volume": 3463.583236
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x065e106def96f03326bf50ca0f54d2d5f180b96b917d6b969704166ce0440db5",
+      "title": "Will CA Paranaense win on 2026-11-18?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/bra-fla-cap-2026-11-18",
+      "probability": 8,
+      "closesAt": "2026-11-18T23:30:00.000Z",
+      "volume": 3304.660811
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x04eb6f5e2c3ac7679042616855f2711ed3b4de56b86e2947d801bbf656e35453",
+      "title": "Will Aston Villa FC vs. Sunderland AFC end in a draw?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/epl-ast-sun-2026-11-21",
+      "probability": 26,
+      "closesAt": "2026-11-21T15:00:00.000Z",
+      "volume": 3049.9303950000003
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x68b454c2ae8f7b5abb241c138191cbbcc4d0167bdb324b9bbd0886bdf1c63bd7",
+      "title": "Will Real Madrid CF win on 2026-11-24?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-rma-psv-2026-11-24",
+      "probability": 83,
+      "closesAt": "2026-11-24T20:00:00.000Z",
+      "volume": 2903.082679
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x53309e5804241261bc7cc9b16dce863ce4f5cbb5903af07d348d646c503540f7",
+      "title": "Will Trabzonspor win on 2026-11-22?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/tur-tra-eyu-2026-11-22",
+      "probability": 85,
+      "closesAt": "2026-11-22T16:00:00.000Z",
+      "volume": 2601.985575
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x85dbf208d2545744674811dba06fa673ef812f4b035662edec995d6e26f6f61c",
+      "title": "Will Club Alianza Atlético win on 2026-11-18?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/per1-caa-fbm-2026-11-18",
+      "probability": 46,
+      "closesAt": "2026-11-18T20:00:00.000Z",
+      "volume": 2339.7847509999997
+    },
+    {
+      "source": "polymarket",
+      "sourceId": "0x6fe5c6020adfa1ac9a85e5ab7679103ba9215f3e6da367e15a5c9c2dd7a42705",
+      "title": "Will Arsenal FC win on 2026-11-24?",
+      "category": "soccer",
+      "url": "https://polymarket.com/event/ucl-ars-bvb-2026-11-24",
+      "probability": 71,
+      "closesAt": "2026-11-24T20:00:00.000Z",
+      "volume": 2093.416751
     }
   ]
 }
